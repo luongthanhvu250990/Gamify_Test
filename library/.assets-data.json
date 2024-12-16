@@ -1,0 +1,173 @@
+{
+  "946f892a-1d8b-4df3-8602-6abb8be29553": {
+    "url": "db://assets/Textures",
+    "value": {}
+  },
+  "5bd44646-ce42-4ffd-872d-26398d7e6134": {
+    "url": "db://assets/Scripts",
+    "value": {}
+  },
+  "4335be25-3060-45b1-a18d-644bed1c055f": {
+    "url": "db://assets/Scenes",
+    "value": {}
+  },
+  "590d4c20-feca-4675-8ca3-5f1ba127169f": {
+    "url": "db://assets/Scenes/Problem1.scene",
+    "value": {
+      "depends": [
+        "590d4c20-feca-4675-8ca3-5f1ba127169f",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "d17a167a-cb0c-431d-aba8-4c7246b787a0@f9941",
+        "4a25c4b6-c5f2-4848-9735-87b9576f1d6f"
+      ],
+      "dependScripts": [
+        "ab0435e6-54e7-45e6-bb9e-1998198d8d62"
+      ]
+    }
+  },
+  "8cb74ef5-36f9-4e37-bb2a-7e28b3913015": {
+    "url": "db://assets/Scripts/Problem1",
+    "value": {}
+  },
+  "91521250-e0fc-4b0e-9f42-5e55dcb73231": {
+    "url": "db://assets/Scripts/Problem2",
+    "value": {}
+  },
+  "8d7574b1-6135-42d0-808f-de7c589cc728": {
+    "url": "db://assets/Scripts/Problem1/RotateAroundComp.ts",
+    "value": {}
+  },
+  "6109423e-df8d-489f-bfbd-5ac2291746f7": {
+    "url": "db://assets/Textures/CocosLogoTransparent.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "6109423e-df8d-489f-bfbd-5ac2291746f7@6c48a": {
+    "url": "db://assets/Textures/CocosLogoTransparent.png@6c48a",
+    "value": {
+      "depends": [
+        "6109423e-df8d-489f-bfbd-5ac2291746f7"
+      ]
+    }
+  },
+  "6109423e-df8d-489f-bfbd-5ac2291746f7@f9941": {
+    "url": "db://assets/Textures/CocosLogoTransparent.png@f9941",
+    "value": {
+      "depends": [
+        "6109423e-df8d-489f-bfbd-5ac2291746f7@6c48a"
+      ]
+    }
+  },
+  "74580190-b8d5-4a99-b2e5-67ae99e3189c": {
+    "url": "db://assets/Scenes/Problem2.scene",
+    "value": {
+      "depends": [
+        "74580190-b8d5-4a99-b2e5-67ae99e3189c",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "6109423e-df8d-489f-bfbd-5ac2291746f7@f9941"
+      ],
+      "dependScripts": [
+        "8d7574b1-6135-42d0-808f-de7c589cc728"
+      ]
+    }
+  },
+  "ec0b7238-9f6d-4353-9f37-98cecdce4fe9": {
+    "url": "db://assets/Scripts/Problem1/RotateAround2Comp.ts",
+    "value": {}
+  },
+  "77ddf065-925a-48ff-a703-015747f89018": {
+    "url": "db://assets/Textures/Problem2",
+    "value": {}
+  },
+  "a970d0ec-ada1-42be-9892-060914cc3121": {
+    "url": "db://assets/Textures/Problem2/Font",
+    "value": {}
+  },
+  "ff580a0d-e794-4d65-b893-b22628bcc77d": {
+    "url": "db://assets/Textures/Problem2/Font/font.fnt",
+    "value": {
+      "depends": [
+        "4bc10f72-76d9-4421-9ba2-d5787f536780@f9941"
+      ]
+    }
+  },
+  "4bc10f72-76d9-4421-9ba2-d5787f536780": {
+    "url": "db://assets/Textures/Problem2/Font/font.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "4bc10f72-76d9-4421-9ba2-d5787f536780@6c48a": {
+    "url": "db://assets/Textures/Problem2/Font/font.png@6c48a",
+    "value": {
+      "depends": [
+        "4bc10f72-76d9-4421-9ba2-d5787f536780"
+      ]
+    }
+  },
+  "4bc10f72-76d9-4421-9ba2-d5787f536780@f9941": {
+    "url": "db://assets/Textures/Problem2/Font/font.png@f9941",
+    "value": {
+      "depends": [
+        "4bc10f72-76d9-4421-9ba2-d5787f536780@6c48a"
+      ]
+    }
+  },
+  "d17a167a-cb0c-431d-aba8-4c7246b787a0": {
+    "url": "db://assets/Textures/Problem2/singleColor.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "d17a167a-cb0c-431d-aba8-4c7246b787a0@6c48a": {
+    "url": "db://assets/Textures/Problem2/singleColor.png@6c48a",
+    "value": {
+      "depends": [
+        "d17a167a-cb0c-431d-aba8-4c7246b787a0"
+      ]
+    }
+  },
+  "d17a167a-cb0c-431d-aba8-4c7246b787a0@f9941": {
+    "url": "db://assets/Textures/Problem2/singleColor.png@f9941",
+    "value": {
+      "depends": [
+        "d17a167a-cb0c-431d-aba8-4c7246b787a0@6c48a"
+      ]
+    }
+  },
+  "8fe7e8a8-e8f6-4bce-be11-c2fda997b350": {
+    "url": "db://assets/Textures/Problem2/auto-atlas.pac",
+    "value": {
+      "depends": []
+    }
+  },
+  "2cee402c-afbe-45d5-b53a-faf4481f2021": {
+    "url": "db://assets/Prefabs",
+    "value": {}
+  },
+  "35919506-f82e-4268-a6f9-3ebc0a6ef11a": {
+    "url": "db://assets/Scripts/Problem2/ItemComp.ts",
+    "value": {}
+  },
+  "4a25c4b6-c5f2-4848-9735-87b9576f1d6f": {
+    "url": "db://assets/Prefabs/Item.prefab",
+    "value": {
+      "depends": [
+        "d17a167a-cb0c-431d-aba8-4c7246b787a0@f9941",
+        "ff580a0d-e794-4d65-b893-b22628bcc77d"
+      ],
+      "dependScripts": [
+        "35919506-f82e-4268-a6f9-3ebc0a6ef11a"
+      ]
+    }
+  },
+  "ab0435e6-54e7-45e6-bb9e-1998198d8d62": {
+    "url": "db://assets/Scripts/Problem2/ScrollComp.ts",
+    "value": {}
+  }
+}

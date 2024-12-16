@@ -1,0 +1,160 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/admin/Documents/Gamify_Test/assets/Textures.meta": {
+      "time": 1734323806454.312
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures": {
+      "time": 1734354483734.7588,
+      "uuid": "946f892a-1d8b-4df3-8602-6abb8be29553"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts.meta": {
+      "time": 1734323811390.4297
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts": {
+      "time": 1734323844359.7322,
+      "uuid": "5bd44646-ce42-4ffd-872d-26398d7e6134"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scenes.meta": {
+      "time": 1734323820908.6104
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scenes": {
+      "time": 1734330571909.7146,
+      "uuid": "4335be25-3060-45b1-a18d-644bed1c055f"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scenes/Problem1.scene.meta": {
+      "time": 1734323833900.936
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scenes/Problem1.scene": {
+      "time": 1734362530622.0356,
+      "uuid": "590d4c20-feca-4675-8ca3-5f1ba127169f"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1.meta": {
+      "time": 1734323841798.2383
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1": {
+      "time": 1734330884854.346,
+      "uuid": "8cb74ef5-36f9-4e37-bb2a-7e28b3913015"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2.meta": {
+      "time": 1734323844358.5369
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2": {
+      "time": 1734355478592.3538,
+      "uuid": "91521250-e0fc-4b0e-9f42-5e55dcb73231"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.meta": {
+      "time": 1734323857563.219
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": {
+      "time": 1734330379509.8462,
+      "uuid": "8d7574b1-6135-42d0-808f-de7c589cc728"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/CocosLogoTransparent.png.meta": {
+      "time": 1734330176488.4993
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/CocosLogoTransparent.png": {
+      "time": 1734330176427.6416,
+      "uuid": "6109423e-df8d-489f-bfbd-5ac2291746f7"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scenes/Problem2.scene.meta": {
+      "time": 1734330571909.0576
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scenes/Problem2.scene": {
+      "time": 1734330571912.5854,
+      "uuid": "74580190-b8d5-4a99-b2e5-67ae99e3189c"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2.meta": {
+      "time": 1734354483736.3857
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2": {
+      "time": 1734354711038.3828,
+      "uuid": "77ddf065-925a-48ff-a703-015747f89018"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font.meta": {
+      "time": 1734354499163.1875
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font": {
+      "time": 1734354511967.809,
+      "uuid": "a970d0ec-ada1-42be-9892-060914cc3121"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/font.fnt.meta": {
+      "time": 1734354499175.0537
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/font.fnt": {
+      "time": 1730004747361.4873,
+      "uuid": "ff580a0d-e794-4d65-b893-b22628bcc77d"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/font.png.meta": {
+      "time": 1734354511982.8176
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/font.png": {
+      "time": 1730004747362.0122,
+      "uuid": "4bc10f72-76d9-4421-9ba2-d5787f536780"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/singleColor.png.meta": {
+      "time": 1734354703136.6108
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/singleColor.png": {
+      "time": 1734354703134.3777,
+      "uuid": "d17a167a-cb0c-431d-aba8-4c7246b787a0"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/auto-atlas.pac.meta": {
+      "time": 1734354711040.6335
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/auto-atlas.pac": {
+      "time": 1734354711037.2295,
+      "uuid": "8fe7e8a8-e8f6-4bce-be11-c2fda997b350"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Prefabs.meta": {
+      "time": 1734354766167.7793
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Prefabs": {
+      "time": 1734355446069.4468,
+      "uuid": "2cee402c-afbe-45d5-b53a-faf4481f2021"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.meta": {
+      "time": 1734354856256.4968
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts": {
+      "time": 1734362092750.6045,
+      "uuid": "35919506-f82e-4268-a6f9-3ebc0a6ef11a"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Prefabs/Item.prefab.meta": {
+      "time": 1734355446071.3408
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Prefabs/Item.prefab": {
+      "time": 1734355446070.4126,
+      "uuid": "4a25c4b6-c5f2-4848-9735-87b9576f1d6f"
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.meta": {
+      "time": 1734355478594.3496
+    },
+    "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": {
+      "time": 1734362510035.4658,
+      "uuid": "ab0435e6-54e7-45e6-bb9e-1998198d8d62"
+    }
+  },
+  "missing": {
+    "6109423e-df8d-489f-bfbd-5ac2291746f7": {
+      "path": "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/CocosLogoTransparent.png",
+      "time": 1734330176427.6416,
+      "removeTime": 1734330181302
+    },
+    "ec0b7238-9f6d-4353-9f37-98cecdce4fe9": {
+      "path": "/Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAround2Comp.ts",
+      "time": 1734330819397.3477,
+      "removeTime": 1734330884855
+    },
+    "ff580a0d-e794-4d65-b893-b22628bcc77d": {
+      "path": "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/Font_bitmap_neosans_bold_bigsize-export.fnt",
+      "time": 1730004747361.4873,
+      "removeTime": 1734354504979
+    },
+    "4bc10f72-76d9-4421-9ba2-d5787f536780": {
+      "path": "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/fpnt.png",
+      "time": 1730004747362.0122,
+      "removeTime": 1734354511969
+    }
+  }
+}

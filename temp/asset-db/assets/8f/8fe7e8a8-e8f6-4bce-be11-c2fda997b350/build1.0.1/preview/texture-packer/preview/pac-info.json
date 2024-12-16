@@ -1,0 +1,75 @@
+{
+  "md5": "fa987",
+  "versionDev": "1.0.2",
+  "sharpMd5": "a640b",
+  "result": {
+    "atlases": [
+      {
+        "spriteFrameInfos": [
+          {
+            "name": "font",
+            "uuid": "4bc10f72-76d9-4421-9ba2-d5787f536780@f9941",
+            "imageUuid": "4bc10f72-76d9-4421-9ba2-d5787f536780",
+            "textureUuid": "4bc10f72-76d9-4421-9ba2-d5787f536780@6c48a",
+            "trim": {
+              "rotatedWidth": 356,
+              "rotatedHeight": 356,
+              "x": 3,
+              "y": 3,
+              "width": 356,
+              "height": 356
+            },
+            "rawWidth": 357,
+            "rawHeight": 357,
+            "width": 362,
+            "height": 362,
+            "originalPath": "/Users/admin/Documents/Gamify_Test/library/4b/4bc10f72-76d9-4421-9ba2-d5787f536780.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 362,
+            "rotatedHeight": 362
+          },
+          {
+            "name": "singleColor",
+            "uuid": "d17a167a-cb0c-431d-aba8-4c7246b787a0@f9941",
+            "imageUuid": "d17a167a-cb0c-431d-aba8-4c7246b787a0",
+            "textureUuid": "d17a167a-cb0c-431d-aba8-4c7246b787a0@6c48a",
+            "trim": {
+              "rotatedWidth": 2,
+              "rotatedHeight": 2,
+              "x": 3,
+              "y": 365,
+              "width": 2,
+              "height": 2
+            },
+            "rawWidth": 2,
+            "rawHeight": 2,
+            "width": 8,
+            "height": 8,
+            "originalPath": "/Users/admin/Documents/Gamify_Test/library/d1/d17a167a-cb0c-431d-aba8-4c7246b787a0.png",
+            "rotated": false,
+            "x": 0,
+            "y": 362,
+            "rotatedWidth": 8,
+            "rotatedHeight": 8
+          }
+        ],
+        "width": 362,
+        "height": 370,
+        "name": "auto-atlas.pac-0",
+        "imagePath": "/Users/admin/Documents/Gamify_Test/temp/asset-db/assets/8f/8fe7e8a8-e8f6-4bce-be11-c2fda997b350/build1.0.1/preview/texture-packer/preview/1fcf87356.png",
+        "imageUuid": "1fcf87356",
+        "textureUuid": "1fcf87356@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        }
+      }
+    ],
+    "unpackedImages": [],
+    "pacUuid": "8fe7e8a8-e8f6-4bce-be11-c2fda997b350"
+  }
+}
