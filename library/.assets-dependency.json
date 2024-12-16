@@ -1,10 +1,7 @@
 {
   "path": {
-    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/Font_bitmap_neosans_bold_bigsize-export.fnt": [
-      "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/Font_bitmap_neosans_bold_bigsize-export.png"
-    ],
-    "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/font.fnt": [
-      "/Users/admin/Documents/Gamify_Test/assets/Textures/Problem2/Font/Font_bitmap_neosans_bold_bigsize-export.png"
+    "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/Font/font.fnt": [
+      "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/Font/font.png"
     ]
   }
 }

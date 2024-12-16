@@ -2,6 +2,7 @@ import {
   _decorator,
   Component,
   instantiate,
+  macro,
   Node,
   NodePool,
   Prefab,
@@ -22,10 +23,16 @@ export class ScrollComp extends Component {
   @property()
   private itemSpacing: number = 50;
 
+  @property()
+  private snapSpeed = 3000;
+
   private contentTrans: UITransform = null;
   private countData: number = 0;
   private itemTotal: number = 0;
   private pool: NodePool = null;
+
+  private yOffset: number = 0;
+
 
   protected onLoad(): void {
     this.contentTrans = this.contentNode.getComponent(UITransform);
@@ -34,6 +41,16 @@ export class ScrollComp extends Component {
 
   protected start(): void {
     this.init();
+  }
+
+  protected update(dt: number): void {
+    if (this.yOffset == 0) return;
+
+    let offset = Math.min(Math.abs(this.yOffset), dt * this.snapSpeed);
+    this.contentNode.children.forEach((child) => {
+      child.setPosition(child.position.x, child.position.y - offset);
+    });
+    this.yOffset += offset;
   }
 
   private init() {
@@ -67,10 +84,16 @@ export class ScrollComp extends Component {
 
   addItemToTop(newNode: Node) {
     newNode.setSiblingIndex(this.itemTotal);
-    newNode.setParent(this.contentNode);
 
-    let y = this.itemTotal * this.itemSpacing;
+    let y = 0;
+    let childCount = this.contentNode.children.length;
+    let topChild = this.contentNode.children[childCount - 1];
+    if (topChild) {
+      y = topChild.position.y + this.itemSpacing;
+    }
+    newNode.setParent(this.contentNode);
     newNode.setPosition(0, y, 0);
+
     this.itemTotal++;
   }
 
@@ -79,21 +102,25 @@ export class ScrollComp extends Component {
     this.deleteNode(item);
   }
 
-  //   setNumberOfItem(num: number) {
-  //     this.contentTrans.height = this.itemSpacing * num;
-  //     this.totalItem = num;
-
-  //     for (let i = 0; i < num; i++) {
-  //       let newNode = this.createNode();
-  //       newNode.setParent(this.contentNode);
-  //       let y = i * this.itemSpacing;
-  //       newNode.setPosition(0, y, 0);
-  //     }
-  //   }
   triggerAdd() {
     let newItem = this.createItem();
     this.addItemToTop(newItem);
   }
 
-  triggerRemove() {}
+  triggerRemove() {
+    let bot = this.contentNode.children[0];
+    this.deleteItem(bot);
+    this.yOffset -= this.itemSpacing;
+  }
+
+  onClick() {
+    this.unscheduleAllCallbacks();
+    this.schedule(
+      this.triggerRemove.bind(this),
+      0.1,
+      macro.REPEAT_FOREVER,
+      0.1
+    );
+    this.schedule(this.triggerAdd.bind(this), 0.05, macro.REPEAT_FOREVER, 0.05);
+  }
 }

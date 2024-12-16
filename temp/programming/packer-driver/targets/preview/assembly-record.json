@@ -10,9 +10,9 @@
           "messages": []
         }
       },
-      "timestamp": 1734323630965
+      "timestamp": 1734363212452
     },
-    "f3e0bbfadb0ed7a28a424ef31293a2297b123969": {
+    "24ac7d0537e523d6c1d5a67c336cca62fc54d372": {
       "imports": {
         "cc": {
           "resolved": {
@@ -22,9 +22,9 @@
           "messages": []
         }
       },
-      "timestamp": 1734330381480
+      "timestamp": 1734363212500
     },
-    "17a8ea0c84aa162f0b0eb978c7b8d1041ca30746": {
+    "8b0c741c37ad7d36c7762e5b96f8c7bda3283359": {
       "imports": {
         "cc": {
           "resolved": {
@@ -34,19 +34,7 @@
           "messages": []
         }
       },
-      "timestamp": 1734330666854
-    },
-    "53e702c1c6dd0c110381f8cba833008f90deedc9": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1734330820194
+      "timestamp": 1734363212535
     },
     "93ba276ea7b26ffcdc433fab14afc1ed6f05647b": {
       "imports": {
@@ -184,23 +172,11 @@
           "messages": []
         }
       },
-      "timestamp": 1734351716501
+      "timestamp": 1734363555487
     },
     "6a5019a719a9014c047e67aa1cf34453ab8392ce": {
       "imports": {},
-      "timestamp": 1734361258846
-    },
-    "0ee71541dcc5af84ce4e592e16861baf9cf529ee": {
-      "imports": {
-        "cc": {
-          "resolved": {
-            "type": "chunk",
-            "id": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b"
-          },
-          "messages": []
-        }
-      },
-      "timestamp": 1734362093612
+      "timestamp": 1734363555509
     },
     "6d8fd2b0177941b032ddc0733af48a561fb60657": {
       "imports": {
@@ -214,28 +190,28 @@
         "__unresolved_1": {
           "resolved": {
             "type": "chunk",
-            "id": "f3e0bbfadb0ed7a28a424ef31293a2297b123969"
+            "id": "24ac7d0537e523d6c1d5a67c336cca62fc54d372"
           },
           "messages": []
         },
         "__unresolved_2": {
           "resolved": {
             "type": "chunk",
-            "id": "0ee71541dcc5af84ce4e592e16861baf9cf529ee"
+            "id": "8b0c741c37ad7d36c7762e5b96f8c7bda3283359"
           },
           "messages": []
         },
         "__unresolved_3": {
           "resolved": {
             "type": "chunk",
-            "id": "88f9dcfb24b42deb3da1b7a49051caa04b446c3f"
+            "id": "39f9d9e8b32ed58cae0168fa6ea9288de860bb63"
           },
           "messages": []
         }
       },
-      "timestamp": 1734362514952
+      "timestamp": 1734365064112
     },
-    "88f9dcfb24b42deb3da1b7a49051caa04b446c3f": {
+    "39f9d9e8b32ed58cae0168fa6ea9288de860bb63": {
       "imports": {
         "__unresolved_0": {
           "resolved": {
@@ -247,7 +223,7 @@
         "__unresolved_1": {
           "resolved": {
             "type": "chunk",
-            "id": "0ee71541dcc5af84ce4e592e16861baf9cf529ee"
+            "id": "8b0c741c37ad7d36c7762e5b96f8c7bda3283359"
           },
           "messages": []
         },
@@ -259,15 +235,15 @@
           "messages": []
         }
       },
-      "timestamp": 1734362514985
+      "timestamp": 1734365064136
     }
   },
   "entries": {
     "cce:/internal/x/cc": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
     "cce:/internal/x/prerequisite-imports": "6d8fd2b0177941b032ddc0733af48a561fb60657",
     "file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "f0eb614dff6710c7d3e4255bd944130032704458",
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": "f3e0bbfadb0ed7a28a424ef31293a2297b123969",
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts": "0ee71541dcc5af84ce4e592e16861baf9cf529ee",
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": "88f9dcfb24b42deb3da1b7a49051caa04b446c3f"
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": "24ac7d0537e523d6c1d5a67c336cca62fc54d372",
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts": "8b0c741c37ad7d36c7762e5b96f8c7bda3283359",
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": "39f9d9e8b32ed58cae0168fa6ea9288de860bb63"
   }
 }

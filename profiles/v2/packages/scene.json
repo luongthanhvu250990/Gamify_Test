@@ -37,10 +37,35 @@
     "sculpt_brush_rotate": 0
   },
   "camera-infos": {
+    "74580190-b8d5-4a99-b2e5-67ae99e3189c": {
+      "position": {
+        "x": 360,
+        "y": 640,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "contentRect": {
+        "x": 0,
+        "y": 0,
+        "width": 720,
+        "height": 1280
+      },
+      "scale": 1
+    },
     "c77ecaa8-c936-46c4-a5b0-98692673ed87": {
       "position": {
-        "x": 304.975,
-        "y": 544.4547263681592,
+        "x": 507.2950000000001,
+        "y": 482.22333333333336,
         "z": 5000
       },
       "rotation": {
@@ -55,40 +80,41 @@
         "z": 0
       },
       "contentRect": {
-        "x": 0,
-        "y": 0,
-        "width": 526,
-        "height": 936.2014925373135
-      },
-      "scale": 0.9813432835820896
-    },
-    "590d4c20-feca-4675-8ca3-5f1ba127169f": {
-      "position": {
-        "x": 627.9999999999999,
-        "y": 353,
-        "z": 5000
-      },
-      "rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0,
-        "w": 1
-      },
-      "viewCenter": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "contentRect": {
-        "x": 0,
+        "x": 429.43749999999994,
         "y": 0,
         "width": 1238.2096317280452,
         "height": 696
       },
       "scale": 0.9858356940509915
+    },
+    "590d4c20-feca-4675-8ca3-5f1ba127169f": {
+      "position": {
+        "x": -157.294466403162,
+        "y": -456,
+        "z": 5000
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "viewCenter": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "contentRect": {
+        "x": -207.294466403162,
+        "y": -476,
+        "width": 100,
+        "height": 40
+      },
+      "scale": 1
     }
   },
   "camera-uuids": [
+    "74580190-b8d5-4a99-b2e5-67ae99e3189c",
     "c77ecaa8-c936-46c4-a5b0-98692673ed87",
     "590d4c20-feca-4675-8ca3-5f1ba127169f"
   ],
@@ -133,8 +159,8 @@
   "game-view": {
     "rotate": true,
     "fullScreen": true,
-    "scaleValue": 74,
-    "sliderValue": 35,
+    "scaleValue": 98,
+    "sliderValue": 48,
     "stats": true
   }
 }

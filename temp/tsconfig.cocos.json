@@ -15,7 +15,7 @@
         "/Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/*"
       ],
       "db://assets/*": [
-        "/Users/admin/Documents/Gamify_Test/assets/*"
+        "/Users/admin/Documents/GitHub/Gamify_Test/assets/*"
       ]
     },
     "experimentalDecorators": true,

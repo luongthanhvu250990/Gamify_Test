@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.SceneAsset",
-    "_name": "Problem1",
+    "_name": "Problem2",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_native": "",
@@ -11,7 +11,7 @@
   },
   {
     "__type__": "cc.Scene",
-    "_name": "Problem1",
+    "_name": "Problem2",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": null,
@@ -513,7 +513,7 @@
     },
     "component": "",
     "_componentId": "ab043XmVOdF5rueGZgZjY1i",
-    "handler": "triggerAdd",
+    "handler": "onClick",
     "customEventData": ""
   },
   {
@@ -787,6 +787,7 @@
       "__expectedType__": "cc.Prefab"
     },
     "itemSpacing": 50,
+    "snapSpeed": 2000,
     "_id": "f73oPU4ZRDdY34pJbRWBJ6"
   },
   {

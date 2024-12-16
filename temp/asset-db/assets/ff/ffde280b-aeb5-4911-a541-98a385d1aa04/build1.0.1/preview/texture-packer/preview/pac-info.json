@@ -1,0 +1,51 @@
+{
+  "md5": "c0549",
+  "versionDev": "1.0.2",
+  "sharpMd5": "a640b",
+  "result": {
+    "atlases": [
+      {
+        "spriteFrameInfos": [
+          {
+            "name": "font",
+            "uuid": "4bc10f72-76d9-4421-9ba2-d5787f536780@f9941",
+            "imageUuid": "4bc10f72-76d9-4421-9ba2-d5787f536780",
+            "textureUuid": "4bc10f72-76d9-4421-9ba2-d5787f536780@6c48a",
+            "trim": {
+              "rotatedWidth": 356,
+              "rotatedHeight": 356,
+              "x": 3,
+              "y": 3,
+              "width": 356,
+              "height": 356
+            },
+            "rawWidth": 357,
+            "rawHeight": 357,
+            "width": 362,
+            "height": 362,
+            "originalPath": "/Users/admin/Documents/GitHub/Gamify_Test/library/4b/4bc10f72-76d9-4421-9ba2-d5787f536780.png",
+            "rotated": false,
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 362,
+            "rotatedHeight": 362
+          }
+        ],
+        "width": 362,
+        "height": 362,
+        "name": "auto-atlas.pac-0",
+        "imagePath": "/Users/admin/Documents/GitHub/Gamify_Test/temp/asset-db/assets/ff/ffde280b-aeb5-4911-a541-98a385d1aa04/build1.0.1/preview/texture-packer/preview/1ef76b04a.png",
+        "imageUuid": "1ef76b04a",
+        "textureUuid": "1ef76b04a@6c48a",
+        "compressed": {
+          "imagePathNoExt": "",
+          "suffixs": [
+            ".png"
+          ]
+        }
+      }
+    ],
+    "unpackedImages": [],
+    "pacUuid": "ffde280b-aeb5-4911-a541-98a385d1aa04"
+  }
+}

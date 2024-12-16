@@ -1,7 +1,7 @@
 {
   "modules": {
     "cce:/internal/x/cc": {
-      "mTimestamp": 10661.022458076477,
+      "mTimestamp": 10655.123832702637,
       "chunkId": "93ba276ea7b26ffcdc433fab14afc1ed6f05647b",
       "imports": [
         {
@@ -409,7 +409,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 10809263.815291882,
+      "mTimestamp": 1519455.9107079506,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -427,7 +427,7 @@
           }
         },
         {
-          "value": "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts",
+          "value": "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts",
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
@@ -436,12 +436,12 @@
             },
             "end": {
               "line": 5,
-              "column": 94
+              "column": 101
             }
           }
         },
         {
-          "value": "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts",
+          "value": "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts",
           "resolved": "__unresolved_2",
           "loc": {
             "start": {
@@ -450,12 +450,12 @@
             },
             "end": {
               "line": 6,
-              "column": 86
+              "column": 93
             }
           }
         },
         {
-          "value": "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts",
+          "value": "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts",
           "resolved": "__unresolved_3",
           "loc": {
             "start": {
@@ -464,7 +464,7 @@
             },
             "end": {
               "line": 7,
-              "column": 88
+              "column": 95
             }
           }
         }
@@ -481,21 +481,21 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts"
+            "url": "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts"
+            "url": "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts"
           },
           "messages": []
         },
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts"
+            "url": "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts"
           },
           "messages": []
         }
@@ -553,12 +553,12 @@
         }
       ]
     },
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": {
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": {
       "mTimestamp": {
         "mtime": 1734330379509.8462,
         "uuid": "8d7574b1-6135-42d0-808f-de7c589cc728"
       },
-      "chunkId": "f3e0bbfadb0ed7a28a424ef31293a2297b123969",
+      "chunkId": "24ac7d0537e523d6c1d5a67c336cca62fc54d372",
       "imports": [
         {
           "value": "cc"
@@ -605,116 +605,12 @@
         }
       ]
     },
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp-001.ts": {
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts": {
       "mTimestamp": {
-        "mtime": 1734330666770.2412,
-        "uuid": "ec0b7238-9f6d-4353-9f37-98cecdce4fe9"
-      },
-      "chunkId": "17a8ea0c84aa162f0b0eb978c7b8d1041ca30746",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 50
-            },
-            "end": {
-              "line": 1,
-              "column": 54
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAround2Comp.ts": {
-      "mTimestamp": {
-        "mtime": 1734330819397.3477,
-        "uuid": "ec0b7238-9f6d-4353-9f37-98cecdce4fe9"
-      },
-      "chunkId": "53e702c1c6dd0c110381f8cba833008f90deedc9",
-      "imports": [
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc"
-        },
-        {
-          "value": "cc",
-          "loc": {
-            "start": {
-              "line": 1,
-              "column": 50
-            },
-            "end": {
-              "line": 1,
-              "column": 54
-            }
-          }
-        }
-      ],
-      "type": "esm",
-      "resolutions": [
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        },
-        {
-          "resolved": {
-            "type": "module",
-            "url": "cce:/internal/x/cc"
-          },
-          "messages": []
-        }
-      ]
-    },
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts": {
-      "mTimestamp": {
-        "mtime": 1734362092750.6045,
+        "mtime": 1734362092750.6047,
         "uuid": "35919506-f82e-4268-a6f9-3ebc0a6ef11a"
       },
-      "chunkId": "0ee71541dcc5af84ce4e592e16861baf9cf529ee",
+      "chunkId": "8b0c741c37ad7d36c7762e5b96f8c7bda3283359",
       "imports": [
         {
           "value": "cc"
@@ -761,12 +657,12 @@
         }
       ]
     },
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": {
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": {
       "mTimestamp": {
-        "mtime": 1734362510035.4658,
+        "mtime": 1734365046497.375,
         "uuid": "ab0435e6-54e7-45e6-bb9e-1998198d8d62"
       },
-      "chunkId": "88f9dcfb24b42deb3da1b7a49051caa04b446c3f",
+      "chunkId": "39f9d9e8b32ed58cae0168fa6ea9288de860bb63",
       "imports": [
         {
           "value": "cce:/internal/code-quality/cr.mjs",
@@ -782,11 +678,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 10,
+              "line": 11,
               "column": 7
             },
             "end": {
-              "line": 10,
+              "line": 11,
               "column": 11
             }
           }
@@ -796,11 +692,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 11,
+              "line": 12,
               "column": 25
             },
             "end": {
-              "line": 11,
+              "line": 12,
               "column": 37
             }
           }
@@ -839,14 +735,14 @@
         {
           "resolved": {
             "type": "module",
-            "url": "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts"
+            "url": "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts"
           },
           "messages": []
         }
       ]
     },
     "cce:/internal/code-quality/cr.mjs": {
-      "mTimestamp": 1734351705768,
+      "mTimestamp": 1734363544712,
       "chunkId": "6a5019a719a9014c047e67aa1cf34453ab8392ce",
       "imports": [],
       "type": "esm",

@@ -3,9 +3,9 @@
     "cce:/internal/x/cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js",
     "cce:/internal/x/prerequisite-imports": "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js",
     "file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts": "./chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js",
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": "./chunks/f3/f3e0bbfadb0ed7a28a424ef31293a2297b123969.js",
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts": "./chunks/0e/0ee71541dcc5af84ce4e592e16861baf9cf529ee.js",
-    "file:///Users/admin/Documents/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": "./chunks/88/88f9dcfb24b42deb3da1b7a49051caa04b446c3f.js"
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": "./chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js",
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts": "./chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js",
+    "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": "./chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js"
   },
   "scopes": {
     "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js": {
@@ -42,19 +42,19 @@
     },
     "./chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js": {
       "__unresolved_0": "./chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js",
-      "__unresolved_1": "./chunks/f3/f3e0bbfadb0ed7a28a424ef31293a2297b123969.js",
-      "__unresolved_2": "./chunks/0e/0ee71541dcc5af84ce4e592e16861baf9cf529ee.js",
-      "__unresolved_3": "./chunks/88/88f9dcfb24b42deb3da1b7a49051caa04b446c3f.js"
+      "__unresolved_1": "./chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js",
+      "__unresolved_2": "./chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js",
+      "__unresolved_3": "./chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js"
     },
-    "./chunks/88/88f9dcfb24b42deb3da1b7a49051caa04b446c3f.js": {
+    "./chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js": {
       "__unresolved_0": "./chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js",
-      "__unresolved_1": "./chunks/0e/0ee71541dcc5af84ce4e592e16861baf9cf529ee.js",
+      "__unresolved_1": "./chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js",
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/0e/0ee71541dcc5af84ce4e592e16861baf9cf529ee.js": {
+    "./chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
-    "./chunks/f3/f3e0bbfadb0ed7a28a424ef31293a2297b123969.js": {
+    "./chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js": {
       "cc": "./chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js"
     },
     "./chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js": {

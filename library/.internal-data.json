@@ -1571,12 +1571,24 @@
       "depends": []
     }
   },
+  "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665": {
+    "url": "db://internal/default_cubemap/front.jpg",
+    "value": {
+      "depends": []
+    }
+  },
   "03721795-84b1-4dcd-8eb3-c8e6b88ee535@6c48a": {
     "url": "db://internal/default_cubemap/back.jpg@6c48a",
     "value": {
       "depends": [
         "03721795-84b1-4dcd-8eb3-c8e6b88ee535"
       ]
+    }
+  },
+  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d": {
+    "url": "db://internal/default_cubemap/left.jpg",
+    "value": {
+      "depends": []
     }
   },
   "52ef29ed-bd92-4e94-ab2f-0ebc91bf3a60@6c48a": {
@@ -1587,14 +1599,8 @@
       ]
     }
   },
-  "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665": {
-    "url": "db://internal/default_cubemap/front.jpg",
-    "value": {
-      "depends": []
-    }
-  },
-  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d": {
-    "url": "db://internal/default_cubemap/left.jpg",
+  "80aabd92-9942-4765-b685-8577a1c88b4e": {
+    "url": "db://internal/default_cubemap/right.jpg",
     "value": {
       "depends": []
     }
@@ -1607,8 +1613,8 @@
       ]
     }
   },
-  "80aabd92-9942-4765-b685-8577a1c88b4e": {
-    "url": "db://internal/default_cubemap/right.jpg",
+  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1": {
+    "url": "db://internal/default_cubemap/top.jpg",
     "value": {
       "depends": []
     }
@@ -1618,20 +1624,6 @@
     "value": {
       "depends": [
         "86eb75aa-3b2f-4c7b-b59e-bdc2e3984665"
-      ]
-    }
-  },
-  "6c895e98-967e-4a6d-8c08-bf6b035fa2c1": {
-    "url": "db://internal/default_cubemap/top.jpg",
-    "value": {
-      "depends": []
-    }
-  },
-  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d@6c48a": {
-    "url": "db://internal/default_cubemap/left.jpg@6c48a",
-    "value": {
-      "depends": [
-        "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d"
       ]
     }
   },
@@ -1651,6 +1643,22 @@
       ]
     }
   },
+  "80aabd92-9942-4765-b685-8577a1c88b4e@6c48a": {
+    "url": "db://internal/default_cubemap/right.jpg@6c48a",
+    "value": {
+      "depends": [
+        "80aabd92-9942-4765-b685-8577a1c88b4e"
+      ]
+    }
+  },
+  "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d@6c48a": {
+    "url": "db://internal/default_cubemap/left.jpg@6c48a",
+    "value": {
+      "depends": [
+        "61ac0181-00bd-4c17-97f0-5fc7f4bafb3d"
+      ]
+    }
+  },
   "c31a901b-671b-4c3d-9246-f9a6e5f14b90": {
     "url": "db://internal/default_materials/default-material-transparent.mtl",
     "value": {
@@ -1664,14 +1672,6 @@
     "value": {
       "depends": [
         "1baf0fc9-befa-459c-8bdd-af1a450a0319"
-      ]
-    }
-  },
-  "80aabd92-9942-4765-b685-8577a1c88b4e@6c48a": {
-    "url": "db://internal/default_cubemap/right.jpg@6c48a",
-    "value": {
-      "depends": [
-        "80aabd92-9942-4765-b685-8577a1c88b4e"
       ]
     }
   },
@@ -1942,6 +1942,12 @@
       "depends": []
     }
   },
+  "1263d74c-8167-4928-91a6-4e2672411f47@38fd2": {
+    "url": "db://internal/primitives.fbx@38fd2",
+    "value": {
+      "depends": []
+    }
+  },
   "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a": {
     "url": "db://internal/default_ui/default_btn_disabled.png@6c48a",
     "value": {
@@ -1950,18 +1956,24 @@
       ]
     }
   },
-  "1263d74c-8167-4928-91a6-4e2672411f47@38fd2": {
-    "url": "db://internal/primitives.fbx@38fd2",
-    "value": {
-      "depends": []
-    }
-  },
   "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a": {
     "url": "db://internal/default_ui/default_btn_normal.png@6c48a",
     "value": {
       "depends": [
         "20835ba4-6145-4fbc-a58a-051ce700aa3e"
       ]
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@40ece": {
+    "url": "db://internal/primitives.fbx@40ece",
+    "value": {
+      "depends": []
+    }
+  },
+  "1263d74c-8167-4928-91a6-4e2672411f47@fc873": {
+    "url": "db://internal/primitives.fbx@fc873",
+    "value": {
+      "depends": []
     }
   },
   "951249e0-9f16-456d-8b85-a6ca954da16b@f9941": {
@@ -1974,12 +1986,6 @@
   },
   "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8": {
     "url": "db://internal/default_ui/default_btn_pressed.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "1263d74c-8167-4928-91a6-4e2672411f47@40ece": {
-    "url": "db://internal/primitives.fbx@40ece",
     "value": {
       "depends": []
     }
@@ -1998,20 +2004,6 @@
       "depends": []
     }
   },
-  "1263d74c-8167-4928-91a6-4e2672411f47@fc873": {
-    "url": "db://internal/primitives.fbx@fc873",
-    "value": {
-      "depends": []
-    }
-  },
-  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a": {
-    "url": "db://internal/default_ui/default_btn_pressed.png@6c48a",
-    "value": {
-      "depends": [
-        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8"
-      ]
-    }
-  },
   "1263d74c-8167-4928-91a6-4e2672411f47@8abdc": {
     "url": "db://internal/primitives.fbx@8abdc",
     "value": {
@@ -2024,14 +2016,6 @@
       "depends": []
     }
   },
-  "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a": {
-    "url": "db://internal/default_ui/default_editbox_bg.png@6c48a",
-    "value": {
-      "depends": [
-        "bd1bcaba-bd7d-4a71-b143-997c882383e4"
-      ]
-    }
-  },
   "1263d74c-8167-4928-91a6-4e2672411f47@8d883": {
     "url": "db://internal/primitives.fbx@8d883",
     "value": {
@@ -2040,18 +2024,12 @@
       ]
     }
   },
-  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941": {
-    "url": "db://internal/default_ui/default_btn_pressed.png@f9941",
+  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a": {
+    "url": "db://internal/default_ui/default_btn_pressed.png@6c48a",
     "value": {
       "depends": [
-        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a"
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8"
       ]
-    }
-  },
-  "b730527c-3233-41c2-aaf7-7cdab58f9749": {
-    "url": "db://internal/default_ui/default_panel.png",
-    "value": {
-      "depends": []
     }
   },
   "1263d74c-8167-4928-91a6-4e2672411f47@aae0f": {
@@ -2067,6 +2045,28 @@
         "1263d74c-8167-4928-91a6-4e2672411f47@fc873",
         "1263d74c-8167-4928-91a6-4e2672411f47@8abdc",
         "1263d74c-8167-4928-91a6-4e2672411f47@a804a"
+      ]
+    }
+  },
+  "b730527c-3233-41c2-aaf7-7cdab58f9749": {
+    "url": "db://internal/default_ui/default_panel.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "bd1bcaba-bd7d-4a71-b143-997c882383e4@6c48a": {
+    "url": "db://internal/default_ui/default_editbox_bg.png@6c48a",
+    "value": {
+      "depends": [
+        "bd1bcaba-bd7d-4a71-b143-997c882383e4"
+      ]
+    }
+  },
+  "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941": {
+    "url": "db://internal/default_ui/default_btn_pressed.png@f9941",
+    "value": {
+      "depends": [
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a"
       ]
     }
   },
@@ -2090,6 +2090,19 @@
       "depends": []
     }
   },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0",
+    "value": {
+      "depends": [
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f"
+      ]
+    }
+  },
   "b730527c-3233-41c2-aaf7-7cdab58f9749@6c48a": {
     "url": "db://internal/default_ui/default_panel.png@6c48a",
     "value": {
@@ -2106,17 +2119,10 @@
       ]
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@74afd",
     "value": {
-      "depends": [
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f",
-        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f"
-      ]
+      "depends": []
     }
   },
   "9fd900dd-221b-4f89-8f2c-fba34243c835@6c48a": {
@@ -2127,8 +2133,8 @@
       ]
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@74afd": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@74afd",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@8fd34",
     "value": {
       "depends": []
     }
@@ -2161,6 +2167,12 @@
       "depends": []
     }
   },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@bb97f",
+    "value": {
+      "depends": []
+    }
+  },
   "9fd900dd-221b-4f89-8f2c-fba34243c835@f9941": {
     "url": "db://internal/default_ui/default_progressbar_bg.png@f9941",
     "value": {
@@ -2175,14 +2187,8 @@
       "depends": []
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@8fd34": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@8fd34",
-    "value": {
-      "depends": []
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@bb97f": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@bb97f",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@7d38f",
     "value": {
       "depends": []
     }
@@ -2195,18 +2201,18 @@
       ]
     }
   },
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@e9a6d",
+    "value": {
+      "depends": []
+    }
+  },
   "45828f25-b50d-4c52-a591-e19491a62b8c@6c48a": {
     "url": "db://internal/default_ui/default_radio_button_on.png@6c48a",
     "value": {
       "depends": [
         "45828f25-b50d-4c52-a591-e19491a62b8c"
       ]
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@7d38f": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@7d38f",
-    "value": {
-      "depends": []
     }
   },
   "0da256a2-21f6-481b-90b6-d3643a09179b@6c48a": {
@@ -2217,12 +2223,10 @@
       ]
     }
   },
-  "f12a23c4-b924-4322-a260-3d982428f1e8@f9941": {
-    "url": "db://internal/default_ui/default_radio_button_off.png@f9941",
+  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10": {
+    "url": "db://internal/default_skybox/default_skybox.png@b47c0@40c10",
     "value": {
-      "depends": [
-        "f12a23c4-b924-4322-a260-3d982428f1e8@6c48a"
-      ]
+      "depends": []
     }
   },
   "28765e2f-040a-4c65-8e8c-f9d0bb79d863": {
@@ -2231,8 +2235,30 @@
       "depends": []
     }
   },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@e9a6d": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@e9a6d",
+  "f12a23c4-b924-4322-a260-3d982428f1e8@f9941": {
+    "url": "db://internal/default_ui/default_radio_button_off.png@f9941",
+    "value": {
+      "depends": [
+        "f12a23c4-b924-4322-a260-3d982428f1e8@6c48a"
+      ]
+    }
+  },
+  "afc47931-f066-46b0-90be-9fe61f213428": {
+    "url": "db://internal/default_ui/default_scrollbar_vertical.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "45828f25-b50d-4c52-a591-e19491a62b8c@f9941": {
+    "url": "db://internal/default_ui/default_radio_button_on.png@f9941",
+    "value": {
+      "depends": [
+        "45828f25-b50d-4c52-a591-e19491a62b8c@6c48a"
+      ]
+    }
+  },
+  "ffb88a8f-af62-48f4-8f1d-3cb606443a43": {
+    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png",
     "value": {
       "depends": []
     }
@@ -2245,38 +2271,6 @@
       ]
     }
   },
-  "45828f25-b50d-4c52-a591-e19491a62b8c@f9941": {
-    "url": "db://internal/default_ui/default_radio_button_on.png@f9941",
-    "value": {
-      "depends": [
-        "45828f25-b50d-4c52-a591-e19491a62b8c@6c48a"
-      ]
-    }
-  },
-  "afc47931-f066-46b0-90be-9fe61f213428": {
-    "url": "db://internal/default_ui/default_scrollbar_vertical.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "ffb88a8f-af62-48f4-8f1d-3cb606443a43": {
-    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0@40c10": {
-    "url": "db://internal/default_skybox/default_skybox.png@b47c0@40c10",
-    "value": {
-      "depends": []
-    }
-  },
-  "57520716-48c8-4a19-8acf-41c9f8777fb0": {
-    "url": "db://internal/default_ui/default_sprite.png",
-    "value": {
-      "depends": []
-    }
-  },
   "28765e2f-040a-4c65-8e8c-f9d0bb79d863@6c48a": {
     "url": "db://internal/default_ui/default_scrollbar_bg.png@6c48a",
     "value": {
@@ -2285,12 +2279,10 @@
       ]
     }
   },
-  "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a": {
-    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png@6c48a",
+  "57520716-48c8-4a19-8acf-41c9f8777fb0": {
+    "url": "db://internal/default_ui/default_sprite.png",
     "value": {
-      "depends": [
-        "ffb88a8f-af62-48f4-8f1d-3cb606443a43"
-      ]
+      "depends": []
     }
   },
   "afc47931-f066-46b0-90be-9fe61f213428@6c48a": {
@@ -2301,11 +2293,11 @@
       ]
     }
   },
-  "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a": {
-    "url": "db://internal/default_ui/default_sprite.png@6c48a",
+  "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a": {
+    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png@6c48a",
     "value": {
       "depends": [
-        "57520716-48c8-4a19-8acf-41c9f8777fb0"
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43"
       ]
     }
   },
@@ -2323,18 +2315,12 @@
       "depends": []
     }
   },
-  "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941": {
-    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png@f9941",
+  "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a": {
+    "url": "db://internal/default_ui/default_sprite.png@6c48a",
     "value": {
       "depends": [
-        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a"
+        "57520716-48c8-4a19-8acf-41c9f8777fb0"
       ]
-    }
-  },
-  "158e7e52-3220-4cd7-9694-713e0e6e8278": {
-    "url": "db://internal/default_ui/default_toggle_checkmark.png",
-    "value": {
-      "depends": []
     }
   },
   "afc47931-f066-46b0-90be-9fe61f213428@f9941": {
@@ -2345,22 +2331,22 @@
       ]
     }
   },
-  "ca7e121b-293c-4763-829a-b7a5fa81f0d2": {
-    "url": "db://internal/default_ui/default_toggle_disabled.png",
+  "158e7e52-3220-4cd7-9694-713e0e6e8278": {
+    "url": "db://internal/default_ui/default_toggle_checkmark.png",
     "value": {
       "depends": []
     }
   },
-  "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941": {
-    "url": "db://internal/default_ui/default_sprite.png@f9941",
+  "ffb88a8f-af62-48f4-8f1d-3cb606443a43@f9941": {
+    "url": "db://internal/default_ui/default_scrollbar_vertical_bg.png@f9941",
     "value": {
       "depends": [
-        "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a"
+        "ffb88a8f-af62-48f4-8f1d-3cb606443a43@6c48a"
       ]
     }
   },
-  "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977": {
-    "url": "db://internal/default_ui/default_toggle_normal.png",
+  "ca7e121b-293c-4763-829a-b7a5fa81f0d2": {
+    "url": "db://internal/default_ui/default_toggle_disabled.png",
     "value": {
       "depends": []
     }
@@ -2381,6 +2367,28 @@
       ]
     }
   },
+  "57520716-48c8-4a19-8acf-41c9f8777fb0@f9941": {
+    "url": "db://internal/default_ui/default_sprite.png@f9941",
+    "value": {
+      "depends": [
+        "57520716-48c8-4a19-8acf-41c9f8777fb0@6c48a"
+      ]
+    }
+  },
+  "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977": {
+    "url": "db://internal/default_ui/default_toggle_normal.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941": {
+    "url": "db://internal/default_ui/default_sprite_splash.png@f9941",
+    "value": {
+      "depends": [
+        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a"
+      ]
+    }
+  },
   "ca7e121b-293c-4763-829a-b7a5fa81f0d2@6c48a": {
     "url": "db://internal/default_ui/default_toggle_disabled.png@6c48a",
     "value": {
@@ -2395,34 +2403,10 @@
       "depends": []
     }
   },
-  "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@6c48a": {
-    "url": "db://internal/default_ui/default_toggle_normal.png@6c48a",
-    "value": {
-      "depends": [
-        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977"
-      ]
-    }
-  },
-  "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@f9941": {
-    "url": "db://internal/default_ui/default_sprite_splash.png@f9941",
-    "value": {
-      "depends": [
-        "7d8f9b89-4fd1-4c9f-a3ab-38ec7cded7ca@6c48a"
-      ]
-    }
-  },
   "bd373594-df84-486d-a34a-19d09ddaa973": {
     "url": "db://internal/gizmo/camera.png",
     "value": {
       "depends": []
-    }
-  },
-  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a": {
-    "url": "db://internal/default_ui/default_toggle_pressed.png@6c48a",
-    "value": {
-      "depends": [
-        "a04e994f-ee49-47b6-9d08-2f59e3773fcc"
-      ]
     }
   },
   "158e7e52-3220-4cd7-9694-713e0e6e8278@f9941": {
@@ -2439,11 +2423,27 @@
       "depends": []
     }
   },
-  "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941": {
-    "url": "db://internal/default_ui/default_toggle_normal.png@f9941",
+  "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@6c48a": {
+    "url": "db://internal/default_ui/default_toggle_normal.png@6c48a",
     "value": {
       "depends": [
-        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@6c48a"
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977"
+      ]
+    }
+  },
+  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a": {
+    "url": "db://internal/default_ui/default_toggle_pressed.png@6c48a",
+    "value": {
+      "depends": [
+        "a04e994f-ee49-47b6-9d08-2f59e3773fcc"
+      ]
+    }
+  },
+  "9cb543ba-d152-4809-8a44-8e7bd5712123@6c48a": {
+    "url": "db://internal/gizmo/directional-light.png@6c48a",
+    "value": {
+      "depends": [
+        "9cb543ba-d152-4809-8a44-8e7bd5712123"
       ]
     }
   },
@@ -2453,11 +2453,11 @@
       "depends": []
     }
   },
-  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@f9941": {
-    "url": "db://internal/default_ui/default_toggle_pressed.png@f9941",
+  "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@f9941": {
+    "url": "db://internal/default_ui/default_toggle_normal.png@f9941",
     "value": {
       "depends": [
-        "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a"
+        "11bdc4b0-64a8-4eb7-a2a7-9fb9e233e977@6c48a"
       ]
     }
   },
@@ -2467,11 +2467,11 @@
       "depends": []
     }
   },
-  "9cb543ba-d152-4809-8a44-8e7bd5712123@6c48a": {
-    "url": "db://internal/gizmo/directional-light.png@6c48a",
+  "a04e994f-ee49-47b6-9d08-2f59e3773fcc@f9941": {
+    "url": "db://internal/default_ui/default_toggle_pressed.png@f9941",
     "value": {
       "depends": [
-        "9cb543ba-d152-4809-8a44-8e7bd5712123"
+        "a04e994f-ee49-47b6-9d08-2f59e3773fcc@6c48a"
       ]
     }
   },
@@ -2503,14 +2503,6 @@
       "depends": []
     }
   },
-  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8@6c48a": {
-    "url": "db://internal/gizmo/light-probe.png@6c48a",
-    "value": {
-      "depends": [
-        "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8"
-      ]
-    }
-  },
   "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0": {
     "url": "db://internal/default_skybox/default_skybox.hdr@b47c0",
     "value": {
@@ -2524,14 +2516,22 @@
       ]
     }
   },
-  "191b676f-175b-41fa-8283-ac539875bfd8": {
-    "url": "db://internal/gizmo/spot-light.png",
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@74afd",
     "value": {
       "depends": []
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@74afd": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@74afd",
+  "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8@6c48a": {
+    "url": "db://internal/gizmo/light-probe.png@6c48a",
+    "value": {
+      "depends": [
+        "9e0cc8d3-a76b-4bee-b53e-f3abab91c4b8"
+      ]
+    }
+  },
+  "191b676f-175b-41fa-8283-ac539875bfd8": {
+    "url": "db://internal/gizmo/spot-light.png",
     "value": {
       "depends": []
     }
@@ -2550,6 +2550,12 @@
       "depends": []
     }
   },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@8fd34",
+    "value": {
+      "depends": []
+    }
+  },
   "c78f78a5-3553-4d1f-ad3b-177fe55af68b@6c48a": {
     "url": "db://internal/gizmo/sphere-light.png@6c48a",
     "value": {
@@ -2560,12 +2566,6 @@
   },
   "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91": {
     "url": "db://internal/gizmo/x.png",
-    "value": {
-      "depends": []
-    }
-  },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@8fd34": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@8fd34",
     "value": {
       "depends": []
     }
@@ -2590,6 +2590,12 @@
       "depends": []
     }
   },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@7d38f",
+    "value": {
+      "depends": []
+    }
+  },
   "b9f47df4-b2f0-4270-bd8a-07bb344a8253@6c48a": {
     "url": "db://internal/gizmo/webview.png@6c48a",
     "value": {
@@ -2604,17 +2610,21 @@
       "depends": []
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@7d38f": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@7d38f",
-    "value": {
-      "depends": []
-    }
-  },
   "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@e9a6d": {
     "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@e9a6d",
     "value": {
       "depends": []
     }
+  },
+  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10": {
+    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@40c10",
+    "value": {
+      "depends": []
+    }
+  },
+  "ba21476f-2866-4f81-9c4d-6e359316e448": {
+    "url": "db://internal/physics/default-physics-material.pmtl",
+    "value": {}
   },
   "191b676f-175b-41fa-8283-ac539875bfd8@6c48a": {
     "url": "db://internal/gizmo/spot-light.png@6c48a",
@@ -2623,10 +2633,6 @@
         "191b676f-175b-41fa-8283-ac539875bfd8"
       ]
     }
-  },
-  "ba21476f-2866-4f81-9c4d-6e359316e448": {
-    "url": "db://internal/physics/default-physics-material.pmtl",
-    "value": {}
   },
   "7f4ddeab-efa9-4b76-bf6a-029520f68461": {
     "url": "db://internal/tools/debug-view-runtime-control.prefab",
@@ -2645,16 +2651,26 @@
       ]
     }
   },
-  "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0@40c10": {
-    "url": "db://internal/default_skybox/default_skybox.hdr@b47c0@40c10",
-    "value": {
-      "depends": []
-    }
-  },
   "e6914174-8ecd-4c99-8e9b-9773a9d368df": {
     "url": "db://internal/tools/parsed-effect-info.json",
     "value": {
       "depends": []
+    }
+  },
+  "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@6c48a": {
+    "url": "db://internal/gizmo/x.png@6c48a",
+    "value": {
+      "depends": [
+        "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91"
+      ]
+    }
+  },
+  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a": {
+    "url": "db://internal/gizmo/y.png@6c48a",
+    "value": {
+      "depends": [
+        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301"
+      ]
     }
   },
   "87c7bea4-faed-46d2-b01d-8d3f4dfb4666": {
@@ -2673,11 +2689,19 @@
       ]
     }
   },
-  "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@6c48a": {
-    "url": "db://internal/gizmo/x.png@6c48a",
+  "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a": {
+    "url": "db://internal/gizmo/z.png@6c48a",
     "value": {
       "depends": [
-        "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91"
+        "389d5fee-e29c-4221-b397-a4934a0a5694"
+      ]
+    }
+  },
+  "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@f9941": {
+    "url": "db://internal/gizmo/x.png@f9941",
+    "value": {
+      "depends": [
+        "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@6c48a"
       ]
     }
   },
@@ -2687,33 +2711,25 @@
       "depends": []
     }
   },
-  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a": {
-    "url": "db://internal/gizmo/y.png@6c48a",
-    "value": {
-      "depends": [
-        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301"
-      ]
-    }
-  },
-  "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a": {
-    "url": "db://internal/gizmo/z.png@6c48a",
-    "value": {
-      "depends": [
-        "389d5fee-e29c-4221-b397-a4934a0a5694"
-      ]
-    }
-  },
   "c903a495-69a9-4bb1-8266-c5d8a692ee6f": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png",
     "value": {
       "depends": []
     }
   },
-  "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@f9941": {
-    "url": "db://internal/gizmo/x.png@f9941",
+  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@f9941": {
+    "url": "db://internal/gizmo/y.png@f9941",
     "value": {
       "depends": [
-        "ac74fa2b-1f5b-4ff5-a3f0-f127f4483e91@6c48a"
+        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a"
+      ]
+    }
+  },
+  "389d5fee-e29c-4221-b397-a4934a0a5694@f9941": {
+    "url": "db://internal/gizmo/z.png@f9941",
+    "value": {
+      "depends": [
+        "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a"
       ]
     }
   },
@@ -2725,26 +2741,10 @@
       ]
     }
   },
-  "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@f9941": {
-    "url": "db://internal/gizmo/y.png@f9941",
-    "value": {
-      "depends": [
-        "7b5313d0-f1aa-4b1b-a3c8-59d523c35301@6c48a"
-      ]
-    }
-  },
   "1a8fc1a3-80e2-4d20-9087-426d2162ba44": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Italic_0.png",
     "value": {
       "depends": []
-    }
-  },
-  "389d5fee-e29c-4221-b397-a4934a0a5694@f9941": {
-    "url": "db://internal/gizmo/z.png@f9941",
-    "value": {
-      "depends": [
-        "389d5fee-e29c-4221-b397-a4934a0a5694@6c48a"
-      ]
     }
   },
   "5716f722-8eba-466c-980d-652f561353d8": {
@@ -2761,14 +2761,6 @@
       "depends": []
     }
   },
-  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@6c48a": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@6c48a",
-    "value": {
-      "depends": [
-        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6"
-      ]
-    }
-  },
   "b5475517-23b9-4873-bc1a-968d96616081": {
     "url": "db://internal/default_fonts/builtin-freetype/OpenSans-Bold.ttf",
     "value": {
@@ -2783,12 +2775,26 @@
       ]
     }
   },
+  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@6c48a": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@6c48a",
+    "value": {
+      "depends": [
+        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6"
+      ]
+    }
+  },
   "1a8fc1a3-80e2-4d20-9087-426d2162ba44@6c48a": {
     "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Italic_0.png@6c48a",
     "value": {
       "depends": [
         "1a8fc1a3-80e2-4d20-9087-426d2162ba44"
       ]
+    }
+  },
+  "b23391b6-52eb-46a6-8da1-6244d9d315fb": {
+    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-BoldItalic.ttf",
+    "value": {
+      "depends": []
     }
   },
   "744d520a-8483-4fbc-a47b-ab57d28d6203@6c48a": {
@@ -2799,17 +2805,11 @@
       ]
     }
   },
-  "b23391b6-52eb-46a6-8da1-6244d9d315fb": {
-    "url": "db://internal/default_fonts/builtin-freetype/OpenSans-BoldItalic.ttf",
-    "value": {
-      "depends": []
-    }
-  },
-  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@f9941": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@f9941",
+  "c903a495-69a9-4bb1-8266-c5d8a692ee6f@f9941": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@f9941",
     "value": {
       "depends": [
-        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@6c48a"
+        "c903a495-69a9-4bb1-8266-c5d8a692ee6f@6c48a"
       ]
     }
   },
@@ -2819,11 +2819,19 @@
       "depends": []
     }
   },
-  "c903a495-69a9-4bb1-8266-c5d8a692ee6f@f9941": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Bold_0.png@f9941",
+  "1a8fc1a3-80e2-4d20-9087-426d2162ba44@f9941": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Italic_0.png@f9941",
     "value": {
       "depends": [
-        "c903a495-69a9-4bb1-8266-c5d8a692ee6f@6c48a"
+        "1a8fc1a3-80e2-4d20-9087-426d2162ba44@6c48a"
+      ]
+    }
+  },
+  "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@f9941": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-BoldItalic_0.png@f9941",
+    "value": {
+      "depends": [
+        "35ac62e8-0b7a-4367-970d-dfdfbdd023c6@6c48a"
       ]
     }
   },
@@ -2840,11 +2848,11 @@
       "dependScripts": []
     }
   },
-  "1a8fc1a3-80e2-4d20-9087-426d2162ba44@f9941": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Italic_0.png@f9941",
+  "744d520a-8483-4fbc-a47b-ab57d28d6203@f9941": {
+    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Regular_0.png@f9941",
     "value": {
       "depends": [
-        "1a8fc1a3-80e2-4d20-9087-426d2162ba44@6c48a"
+        "744d520a-8483-4fbc-a47b-ab57d28d6203@6c48a"
       ]
     }
   },
@@ -2856,14 +2864,6 @@
         "1263d74c-8167-4928-91a6-4e2672411f47@801ec"
       ],
       "dependScripts": []
-    }
-  },
-  "744d520a-8483-4fbc-a47b-ab57d28d6203@f9941": {
-    "url": "db://internal/default_fonts/builtin-bitmap/OpenSans-Regular_0.png@f9941",
-    "value": {
-      "depends": [
-        "744d520a-8483-4fbc-a47b-ab57d28d6203@6c48a"
-      ]
     }
   },
   "6350d660-e888-4acf-a552-f3b719ae9110": {
