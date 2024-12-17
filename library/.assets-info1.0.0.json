@@ -26,11 +26,11 @@
       "uuid": "91521250-e0fc-4b0e-9f42-5e55dcb73231"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2": {
-      "time": 1734363339830.3237,
+      "time": 1734392795795.6245,
       "uuid": "77ddf065-925a-48ff-a703-015747f89018"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/Font": {
-      "time": 1734363385037.9902,
+      "time": 1734392762523.9236,
       "uuid": "a970d0ec-ada1-42be-9892-060914cc3121"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts": {
@@ -42,7 +42,7 @@
       "uuid": "35919506-f82e-4268-a6f9-3ebc0a6ef11a"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": {
-      "time": 1734365046497.375,
+      "time": 1734393070002.9778,
       "uuid": "ab0435e6-54e7-45e6-bb9e-1998198d8d62"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Prefabs.meta": {
@@ -83,11 +83,11 @@
       "uuid": "4a25c4b6-c5f2-4848-9735-87b9576f1d6f"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem1.scene": {
-      "time": 1734363143049.5889,
+      "time": 1734365169439.0632,
       "uuid": "74580190-b8d5-4a99-b2e5-67ae99e3189c"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scene": {
-      "time": 1734365095339.8928,
+      "time": 1734394819093.1956,
       "uuid": "590d4c20-feca-4675-8ca3-5f1ba127169f"
     },
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/CocosLogoTransparent.png": {
@@ -127,12 +127,12 @@
     "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/CocosLogoTransparent.png.meta": {
       "time": 1734330176488.4995
     },
-    "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/Font/auto-atlas.pac.meta": {
-      "time": 1734363345784.166
+    "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/auto-atlas.pac.meta": {
+      "time": 1734392795797.5215
     },
-    "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/Font/auto-atlas.pac": {
-      "time": 1734363345780.7092,
-      "uuid": "ffde280b-aeb5-4911-a541-98a385d1aa04"
+    "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/auto-atlas.pac": {
+      "time": 1734392795794.6804,
+      "uuid": "101fa007-4740-4de5-a4f6-5bb5dfb05fac"
     }
   },
   "missing": {
@@ -140,6 +140,11 @@
       "path": "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/auto-atlas.pac",
       "time": 1734354711037.2295,
       "removeTime": 1734363339831
+    },
+    "ffde280b-aeb5-4911-a541-98a385d1aa04": {
+      "path": "/Users/admin/Documents/GitHub/Gamify_Test/assets/Textures/Problem2/auto-atlas.pac",
+      "time": 1734363345780.7092,
+      "removeTime": 1734392790544
     }
   }
 }

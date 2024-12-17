@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, instantiate, macro, Node, NodePool, Prefab, UITransform, ItemComp, _dec, _dec2, _dec3, _dec4, _dec5, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _crd, ccclass, property, ScrollComp;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, instantiate, Node, NodePool, Prefab, Slider, ItemComp, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _crd, ccclass, property, ScrollComp;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -23,11 +23,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
       _decorator = _cc._decorator;
       Component = _cc.Component;
       instantiate = _cc.instantiate;
-      macro = _cc.macro;
       Node = _cc.Node;
       NodePool = _cc.NodePool;
       Prefab = _cc.Prefab;
-      UITransform = _cc.UITransform;
+      Slider = _cc.Slider;
     }, function (_unresolved_2) {
       ItemComp = _unresolved_2.ItemComp;
     }],
@@ -36,14 +35,24 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
       _cclegacy._RF.push({}, "ab043XmVOdF5rueGZgZjY1i", "ScrollComp", undefined);
 
-      __checkObsolete__(['_decorator', 'Component', 'instantiate', 'macro', 'Node', 'NodePool', 'Prefab', 'UITransform', 'Vec3']);
+      __checkObsolete__(['_decorator', 'Component', 'instantiate', 'macro', 'Node', 'NodePool', 'Prefab', 'Slider', 'UITransform', 'Vec3']);
 
       ({
         ccclass,
         property
       } = _decorator);
 
-      _export("ScrollComp", ScrollComp = (_dec = ccclass("ScrollComp"), _dec2 = property(Node), _dec3 = property(Prefab), _dec4 = property(), _dec5 = property(), _dec(_class = (_class2 = class ScrollComp extends Component {
+      _export("ScrollComp", ScrollComp = (_dec = ccclass("ScrollComp"), _dec2 = property(Node), _dec3 = property(Prefab), _dec4 = property(), _dec5 = property(), _dec6 = property({
+        group: {
+          name: "Time Slider"
+        },
+        type: Slider
+      }), _dec7 = property({
+        group: {
+          name: "Time Slider"
+        },
+        type: Slider
+      }), _dec(_class = (_class2 = class ScrollComp extends Component {
         constructor() {
           super(...arguments);
 
@@ -55,15 +64,20 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
           _initializerDefineProperty(this, "snapSpeed", _descriptor4, this);
 
-          this.contentTrans = null;
+          _initializerDefineProperty(this, "timeAddSlider", _descriptor5, this);
+
+          _initializerDefineProperty(this, "timeRemoveSlider", _descriptor6, this);
+
           this.countData = 0;
           this.itemTotal = 0;
           this.pool = null;
           this.yOffset = 0;
+          this.nextActions = [this.triggerRemove.bind(this), this.triggerAdd.bind(this)];
+          this.times = [0.1, 0.05];
+          this.idx = 0;
         }
 
         onLoad() {
-          this.contentTrans = this.contentNode.getComponent(UITransform);
           this.pool = new NodePool();
         }
 
@@ -141,10 +155,17 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           this.yOffset -= this.itemSpacing;
         }
 
+        doSchedule() {
+          this.scheduleOnce(() => {
+            this.nextActions[this.idx]();
+            this.idx++;
+            this.idx %= 2;
+            this.doSchedule();
+          }, this.times[this.idx]);
+        }
+
         onClick() {
-          this.unscheduleAllCallbacks();
-          this.schedule(this.triggerRemove.bind(this), 0.1, macro.REPEAT_FOREVER, 0.1);
-          this.schedule(this.triggerAdd.bind(this), 0.05, macro.REPEAT_FOREVER, 0.05);
+          this.doSchedule();
         }
 
       }, (_descriptor = _applyDecoratedDescriptor(_class2.prototype, "contentNode", [_dec2], {
@@ -174,6 +195,20 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
         writable: true,
         initializer: function initializer() {
           return 3000;
+        }
+      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "timeAddSlider", [_dec6], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function initializer() {
+          return null;
+        }
+      }), _descriptor6 = _applyDecoratedDescriptor(_class2.prototype, "timeRemoveSlider", [_dec7], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function initializer() {
+          return null;
         }
       })), _class2)) || _class));
 

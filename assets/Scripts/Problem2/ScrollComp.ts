@@ -6,6 +6,7 @@ import {
   Node,
   NodePool,
   Prefab,
+  Slider,
   UITransform,
   Vec3,
 } from "cc";
@@ -26,16 +27,19 @@ export class ScrollComp extends Component {
   @property()
   private snapSpeed = 3000;
 
-  private contentTrans: UITransform = null;
+  @property({ group: { name: "Time Slider" }, type: Slider })
+  timeAddSlider: Slider = null;
+
+  @property({ group: { name: "Time Slider" }, type: Slider })
+  timeRemoveSlider: Slider = null;
+
   private countData: number = 0;
   private itemTotal: number = 0;
   private pool: NodePool = null;
 
   private yOffset: number = 0;
 
-
   protected onLoad(): void {
-    this.contentTrans = this.contentNode.getComponent(UITransform);
     this.pool = new NodePool();
   }
 
@@ -113,14 +117,22 @@ export class ScrollComp extends Component {
     this.yOffset -= this.itemSpacing;
   }
 
+  private nextActions = [
+    this.triggerRemove.bind(this),
+    this.triggerAdd.bind(this),
+  ];
+
+  private times = [0.1, 0.05];
+  private idx = 0;
+  doSchedule() {
+    this.scheduleOnce(() => {
+      this.nextActions[this.idx]();
+      this.idx++;
+      this.idx %= 2;
+      this.doSchedule();
+    }, this.times[this.idx]);
+  }
   onClick() {
-    this.unscheduleAllCallbacks();
-    this.schedule(
-      this.triggerRemove.bind(this),
-      0.1,
-      macro.REPEAT_FOREVER,
-      0.1
-    );
-    this.schedule(this.triggerAdd.bind(this), 0.05, macro.REPEAT_FOREVER, 0.05);
+    this.doSchedule();
   }
 }

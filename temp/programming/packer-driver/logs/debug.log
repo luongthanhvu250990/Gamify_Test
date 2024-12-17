@@ -750,3 +750,139 @@ debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/S
 debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
 debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
 debug: Target(preview) ends with cost 38.29554080963135ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:25:19 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:16:18 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Mon Dec 16 2024 23:04:06 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Mon Dec 16 2024 23:55:20 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(editor) ends with cost 51.99554204940796ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:25:19 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 09:16:18 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Mon Dec 16 2024 23:04:06 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Mon Dec 16 2024 23:55:20 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(preview) ends with cost 52.72787523269653ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:16:18 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 16:02:45 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Mon Dec 16 2024 23:55:20 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Tue Dec 17 2024 06:41:48 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(editor) ends with cost 49.67683410644531ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 09:16:18 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 16:02:45 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Mon Dec 16 2024 23:55:20 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Tue Dec 17 2024 06:41:48 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(preview) ends with cost 127.50500011444092ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:02:45 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 16:05:55 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Tue Dec 17 2024 06:41:48 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Tue Dec 17 2024 06:44:57 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(editor) ends with cost 49.458916664123535ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:02:45 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 16:05:55 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Tue Dec 17 2024 06:41:48 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Tue Dec 17 2024 06:44:57 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(preview) ends with cost 58.50208282470703ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:05:55 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 16:12:24 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Tue Dec 17 2024 06:44:57 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Tue Dec 17 2024 06:51:10 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(editor) ends with cost 61.45170783996582ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 16:05:55 GMT+0800 (Indochina Time), Current mtime: Thu Jan 01 1970 16:12:24 GMT+0800 (Indochina Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/Cocos/Creator/3.8.1/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem1/RotateAroundComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Resolve file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts from cce:/internal/x/prerequisite-imports as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts.
+debug: Detected change: file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts. Last mtime: Tue Dec 17 2024 06:44:57 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62, Current mtime: Tue Dec 17 2024 06:51:10 GMT+0700 (Indochina Time)@ab0435e6-54e7-45e6-bb9e-1998198d8d62
+debug: Inspect file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as cce:/internal/x/cc.
+debug: Resolve ./ItemComp from file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts as file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ItemComp.ts.
+debug: Target(preview) ends with cost 58.533584117889404ms.

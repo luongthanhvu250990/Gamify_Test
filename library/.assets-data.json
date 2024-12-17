@@ -79,7 +79,10 @@
         "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
         "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
         "d17a167a-cb0c-431d-aba8-4c7246b787a0@f9941",
-        "4a25c4b6-c5f2-4848-9735-87b9576f1d6f"
+        "4a25c4b6-c5f2-4848-9735-87b9576f1d6f",
+        "f12a23c4-b924-4322-a260-3d982428f1e8@f9941",
+        "ff580a0d-e794-4d65-b893-b22628bcc77d",
+        "28765e2f-040a-4c65-8e8c-f9d0bb79d863@f9941"
       ],
       "dependScripts": [
         "ab0435e6-54e7-45e6-bb9e-1998198d8d62"
@@ -165,7 +168,11 @@
     }
   },
   "ffde280b-aeb5-4911-a541-98a385d1aa04": {
-    "url": "db://assets/Textures/Problem2/Font/auto-atlas.pac",
+    "url": "db://assets/Textures/Problem2/auto-atlas.pac",
+    "value": {}
+  },
+  "101fa007-4740-4de5-a4f6-5bb5dfb05fac": {
+    "url": "db://assets/Textures/Problem2/auto-atlas.pac",
     "value": {
       "depends": []
     }
