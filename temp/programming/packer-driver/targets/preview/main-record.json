@@ -409,7 +409,7 @@
       ]
     },
     "cce:/internal/x/prerequisite-imports": {
-      "mTimestamp": 29544335.07499981,
+      "mTimestamp": 39319359.542333126,
       "chunkId": "6d8fd2b0177941b032ddc0733af48a561fb60657",
       "imports": [
         {
@@ -659,7 +659,7 @@
     },
     "file:///Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.ts": {
       "mTimestamp": {
-        "mtime": 1734393070002.9778,
+        "mtime": 1734402863338.6821,
         "uuid": "ab0435e6-54e7-45e6-bb9e-1998198d8d62"
       },
       "chunkId": "39f9d9e8b32ed58cae0168fa6ea9288de860bb63",
@@ -678,11 +678,11 @@
           "value": "cc",
           "loc": {
             "start": {
-              "line": 12,
+              "line": 14,
               "column": 7
             },
             "end": {
-              "line": 12,
+              "line": 14,
               "column": 11
             }
           }
@@ -692,11 +692,11 @@
           "resolved": "__unresolved_1",
           "loc": {
             "start": {
-              "line": 13,
+              "line": 15,
               "column": 25
             },
             "end": {
-              "line": 13,
+              "line": 15,
               "column": 37
             }
           }

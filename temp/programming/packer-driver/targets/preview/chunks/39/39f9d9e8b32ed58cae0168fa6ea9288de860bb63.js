@@ -1,7 +1,7 @@
 System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _context) {
   "use strict";
 
-  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, Component, instantiate, Node, NodePool, Prefab, Slider, ItemComp, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _crd, ccclass, property, ScrollComp;
+  var _reporterNs, _cclegacy, __checkObsolete__, __checkObsoleteInNamespace__, _decorator, CCFloat, Component, instantiate, Label, Node, NodePool, Prefab, Slider, ItemComp, _dec, _dec2, _dec3, _dec4, _dec5, _dec6, _dec7, _dec8, _dec9, _dec10, _class, _class2, _descriptor, _descriptor2, _descriptor3, _descriptor4, _descriptor5, _descriptor6, _descriptor7, _descriptor8, _descriptor9, _crd, ccclass, property, ScrollComp;
 
   function _initializerDefineProperty(target, property, descriptor, context) { if (!descriptor) return; Object.defineProperty(target, property, { enumerable: descriptor.enumerable, configurable: descriptor.configurable, writable: descriptor.writable, value: descriptor.initializer ? descriptor.initializer.call(context) : void 0 }); }
 
@@ -21,8 +21,10 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
       __checkObsolete__ = _cc.__checkObsolete__;
       __checkObsoleteInNamespace__ = _cc.__checkObsoleteInNamespace__;
       _decorator = _cc._decorator;
+      CCFloat = _cc.CCFloat;
       Component = _cc.Component;
       instantiate = _cc.instantiate;
+      Label = _cc.Label;
       Node = _cc.Node;
       NodePool = _cc.NodePool;
       Prefab = _cc.Prefab;
@@ -35,23 +37,43 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
       _cclegacy._RF.push({}, "ab043XmVOdF5rueGZgZjY1i", "ScrollComp", undefined);
 
-      __checkObsolete__(['_decorator', 'Component', 'instantiate', 'macro', 'Node', 'NodePool', 'Prefab', 'Slider', 'UITransform', 'Vec3']);
+      __checkObsolete__(['_decorator', 'CCFloat', 'Component', 'instantiate', 'Label', 'macro', 'Node', 'NodePool', 'Prefab', 'Slider', 'UITransform', 'Vec3']);
 
       ({
         ccclass,
         property
       } = _decorator);
 
-      _export("ScrollComp", ScrollComp = (_dec = ccclass("ScrollComp"), _dec2 = property(Node), _dec3 = property(Prefab), _dec4 = property(), _dec5 = property(), _dec6 = property({
+      _export("ScrollComp", ScrollComp = (_dec = ccclass("ScrollComp"), _dec2 = property(Node), _dec3 = property(Prefab), _dec4 = property(), _dec5 = property({
         group: {
           name: "Time Slider"
         },
         type: Slider
+      }), _dec6 = property({
+        group: {
+          name: "Time Slider"
+        },
+        type: Label
       }), _dec7 = property({
         group: {
           name: "Time Slider"
         },
         type: Slider
+      }), _dec8 = property({
+        group: {
+          name: "Time Slider"
+        },
+        type: Label
+      }), _dec9 = property({
+        group: {
+          name: "Time Slider"
+        },
+        type: CCFloat
+      }), _dec10 = property({
+        group: {
+          name: "Time Slider"
+        },
+        type: CCFloat
       }), _dec(_class = (_class2 = class ScrollComp extends Component {
         constructor() {
           super(...arguments);
@@ -62,19 +84,26 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
           _initializerDefineProperty(this, "itemSpacing", _descriptor3, this);
 
-          _initializerDefineProperty(this, "snapSpeed", _descriptor4, this);
+          this.snapSpeed = 3000;
 
-          _initializerDefineProperty(this, "timeAddSlider", _descriptor5, this);
+          _initializerDefineProperty(this, "timeAddSlider", _descriptor4, this);
+
+          _initializerDefineProperty(this, "timeAddInfoLabel", _descriptor5, this);
 
           _initializerDefineProperty(this, "timeRemoveSlider", _descriptor6, this);
+
+          _initializerDefineProperty(this, "timeRemoveInfoLabel", _descriptor7, this);
+
+          _initializerDefineProperty(this, "timeMin", _descriptor8, this);
+
+          _initializerDefineProperty(this, "timeMultiply", _descriptor9, this);
 
           this.countData = 0;
           this.itemTotal = 0;
           this.pool = null;
           this.yOffset = 0;
+          this.actionIdx = 0;
           this.nextActions = [this.triggerRemove.bind(this), this.triggerAdd.bind(this)];
-          this.times = [0.1, 0.05];
-          this.idx = 0;
         }
 
         onLoad() {
@@ -87,6 +116,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
         update(dt) {
           if (this.yOffset == 0) return;
+          this.snapSpeed = this.itemSpacing / this.getTime(this.timeRemoveSlider);
           var offset = Math.min(Math.abs(this.yOffset), dt * this.snapSpeed);
           this.contentNode.children.forEach(child => {
             child.setPosition(child.position.x, child.position.y - offset);
@@ -101,6 +131,8 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
             var newItem = this.createItem();
             this.addItemToTop(newItem);
           }
+
+          this.updateSliderInfo();
         }
 
         createNode() {
@@ -155,16 +187,27 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
           this.yOffset -= this.itemSpacing;
         }
 
+        getTime(slider) {
+          return Math.max(this.timeMin, slider.progress * this.timeMultiply);
+        }
+
         doSchedule() {
+          var times = [this.getTime(this.timeAddSlider), this.getTime(this.timeRemoveSlider)];
           this.scheduleOnce(() => {
-            this.nextActions[this.idx]();
-            this.idx++;
-            this.idx %= 2;
+            this.nextActions[this.actionIdx]();
+            this.actionIdx++;
+            this.actionIdx %= 2;
             this.doSchedule();
-          }, this.times[this.idx]);
+          }, times[this.actionIdx]);
+        }
+
+        updateSliderInfo() {
+          this.timeAddInfoLabel.string = Math.round(this.getTime(this.timeAddSlider) * 1000) + "ms";
+          this.timeRemoveInfoLabel.string = Math.round(this.getTime(this.timeRemoveSlider) * 1000) + "ms";
         }
 
         onClick() {
+          this.unscheduleAllCallbacks();
           this.doSchedule();
         }
 
@@ -189,14 +232,14 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
         initializer: function initializer() {
           return 50;
         }
-      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "snapSpeed", [_dec5], {
+      }), _descriptor4 = _applyDecoratedDescriptor(_class2.prototype, "timeAddSlider", [_dec5], {
         configurable: true,
         enumerable: true,
         writable: true,
         initializer: function initializer() {
-          return 3000;
+          return null;
         }
-      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "timeAddSlider", [_dec6], {
+      }), _descriptor5 = _applyDecoratedDescriptor(_class2.prototype, "timeAddInfoLabel", [_dec6], {
         configurable: true,
         enumerable: true,
         writable: true,
@@ -209,6 +252,27 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
         writable: true,
         initializer: function initializer() {
           return null;
+        }
+      }), _descriptor7 = _applyDecoratedDescriptor(_class2.prototype, "timeRemoveInfoLabel", [_dec8], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function initializer() {
+          return null;
+        }
+      }), _descriptor8 = _applyDecoratedDescriptor(_class2.prototype, "timeMin", [_dec9], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function initializer() {
+          return 0.001;
+        }
+      }), _descriptor9 = _applyDecoratedDescriptor(_class2.prototype, "timeMultiply", [_dec10], {
+        configurable: true,
+        enumerable: true,
+        writable: true,
+        initializer: function initializer() {
+          return 1;
         }
       })), _class2)) || _class));
 

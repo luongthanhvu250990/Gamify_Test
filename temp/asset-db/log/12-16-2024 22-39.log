@@ -2501,3 +2501,780 @@
 12-17-2024 07:20:19-debug: start refresh asset from /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scene...
 12-17-2024 07:20:19-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scenebackground: #aaff85; color: #000;color: #000;
 12-17-2024 07:20:19-debug: refresh asset /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes success
+12-17-2024 07:20:39-debug: refresh db internal success
+12-17-2024 07:20:39-debug: refresh db assets success
+12-17-2024 07:20:39-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 07:20:39-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 07:20:39-debug: asset-db:refresh-all-database (25ms)
+12-17-2024 07:24:48-debug: refresh db internal success
+12-17-2024 07:24:48-debug: refresh db assets success
+12-17-2024 07:24:48-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 07:24:48-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 07:24:48-debug: asset-db:refresh-all-database (46ms)
+12-17-2024 07:24:48-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 07:24:48-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 07:24:53-debug: refresh db internal success
+12-17-2024 07:24:53-debug: refresh db assets success
+12-17-2024 07:24:53-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 07:24:53-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 07:24:53-debug: asset-db:refresh-all-database (38ms)
+12-17-2024 09:06:15-debug: refresh db internal success
+12-17-2024 09:06:16-debug: refresh db assets success
+12-17-2024 09:06:16-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:06:16-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:06:16-debug: asset-db:refresh-all-database (115ms)
+12-17-2024 09:06:16-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:06:16-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:06:21-debug: refresh db internal success
+12-17-2024 09:06:21-debug: refresh db assets success
+12-17-2024 09:06:21-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:06:21-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:06:21-debug: asset-db:refresh-all-database (29ms)
+12-17-2024 09:06:21-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:06:21-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:20:14-debug: refresh db internal success
+12-17-2024 09:20:14-debug: refresh db assets success
+12-17-2024 09:20:14-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:20:14-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:20:14-debug: asset-db:refresh-all-database (31ms)
+12-17-2024 09:20:14-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:20:14-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:20:36-debug: start refresh asset from /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scene...
+12-17-2024 09:20:36-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scenebackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:20:36-debug: refresh asset /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes success
+12-17-2024 09:24:38-debug: refresh db internal success
+12-17-2024 09:24:38-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:24:38-debug: refresh db assets success
+12-17-2024 09:24:38-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:24:38-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:24:38-debug: asset-db:refresh-all-database (34ms)
+12-17-2024 09:24:38-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:24:38-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:24:44-debug: programming:execute-script (5ms)
+12-17-2024 09:24:45-debug: Query all assets info in project
+12-17-2024 09:24:45-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:24:45-debug:   Number of all scenes: 2
+12-17-2024 09:24:45-debug:   Number of all scripts: 4
+12-17-2024 09:24:45-debug:   Number of other assets: 335
+12-17-2024 09:24:45-debug: reload all scripts.
+12-17-2024 09:24:45-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:24:45-debug: Unregister ScrollComp
+12-17-2024 09:24:45-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:24:45-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:24:45-debug: Unregister ItemComp
+12-17-2024 09:24:45-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:24:45-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:24:45-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:24:45-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:24:45-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:24:45-debug: Unregister RotateAroundComp
+12-17-2024 09:24:45-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:24:45-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:24:45-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:24:45-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:24:45-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:24:45-debug: [[Executor]] Register ItemComp
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:24:45-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:24:45-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:24:45-warn: You are explicitly specifying `undefined` type to cc property "snapSpeed" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:24:45-debug: Incremental keys: 
+12-17-2024 09:24:45-debug: Query asset bundle start0%
+12-17-2024 09:24:45-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:24:45-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:24:45-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:24:45-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:24:45-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:24:45-debug: // ---- build task Query asset bundle ---- (7ms)
+12-17-2024 09:24:45-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:24:45-debug: [Build Memory track]: Query asset bundle start:312.06MB, end 310.86MB, increase: -1225.07KB
+12-17-2024 09:24:45-debug: Query asset bundle start5%
+12-17-2024 09:24:45-debug: run build task Query asset bundle success in 7 ms √5%
+12-17-2024 09:24:45-debug: run build task Query asset bundle success in 0 ms √10%
+12-17-2024 09:24:45-debug: [Build Memory track]: Query asset bundle start:310.87MB, end 310.88MB, increase: 9.21KB
+12-17-2024 09:24:45-debug: Sort some build options to settings.json start10%
+12-17-2024 09:24:45-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:24:45-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+12-17-2024 09:24:45-debug: Fill script data to settings start12%
+12-17-2024 09:24:45-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:24:45-debug: [Build Memory track]: Sort some build options to settings.json start:310.88MB, end 310.89MB, increase: 10.65KB
+12-17-2024 09:24:45-debug: run build task Fill script data to settings success in 0 ms √13%
+12-17-2024 09:24:45-debug: Sort some build options to settings.json start13%
+12-17-2024 09:24:45-debug: [Build Memory track]: Fill script data to settings start:310.90MB, end 310.91MB, increase: 9.70KB
+12-17-2024 09:24:45-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:24:45-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:24:45-debug: [Build Memory track]: Sort some build options to settings.json start:310.92MB, end 311.03MB, increase: 113.36KB
+12-17-2024 09:24:45-debug: run build task Sort some build options to settings.json success in 1 ms √15%
+12-17-2024 09:25:40-debug: refresh db internal success
+12-17-2024 09:25:40-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:25:40-debug: refresh db assets success
+12-17-2024 09:25:40-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:25:40-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:25:40-debug: asset-db:refresh-all-database (42ms)
+12-17-2024 09:25:40-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:25:40-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:25:43-debug: programming:execute-script (4ms)
+12-17-2024 09:25:44-debug: Query all assets info in project
+12-17-2024 09:25:44-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:25:44-debug:   Number of all scenes: 2
+12-17-2024 09:25:44-debug:   Number of all scripts: 4
+12-17-2024 09:25:44-debug:   Number of other assets: 335
+12-17-2024 09:25:44-debug: reload all scripts.
+12-17-2024 09:25:44-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:25:44-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:25:44-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:25:44-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:25:44-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:25:44-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:25:44-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:25:44-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:25:44-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:25:44-debug: Unregister RotateAroundComp
+12-17-2024 09:25:44-debug: Unregister ItemComp
+12-17-2024 09:25:44-debug: Unregister ScrollComp
+12-17-2024 09:25:44-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:25:44-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:25:44-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:25:44-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:25:44-debug: [[Executor]] Register ItemComp
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:25:44-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:25:44-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:25:44-debug: Incremental keys: 
+12-17-2024 09:25:44-debug: Query asset bundle start0%
+12-17-2024 09:25:44-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:25:44-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:25:44-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:25:44-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:25:44-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:25:44-debug: // ---- build task Query asset bundle ---- (10ms)
+12-17-2024 09:25:44-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:25:44-debug: Query asset bundle start5%
+12-17-2024 09:25:44-debug: [Build Memory track]: Query asset bundle start:312.22MB, end 312.67MB, increase: 458.26KB
+12-17-2024 09:25:44-debug: run build task Query asset bundle success in 10 ms √5%
+12-17-2024 09:25:44-debug: run build task Query asset bundle success in 0 ms √10%
+12-17-2024 09:25:44-debug: [Build Memory track]: Query asset bundle start:312.67MB, end 312.68MB, increase: 9.73KB
+12-17-2024 09:25:44-debug: Sort some build options to settings.json start10%
+12-17-2024 09:25:44-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:25:44-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:25:44-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+12-17-2024 09:25:44-debug: [Build Memory track]: Sort some build options to settings.json start:312.69MB, end 312.70MB, increase: 12.01KB
+12-17-2024 09:25:44-debug: Fill script data to settings start12%
+12-17-2024 09:25:44-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:25:44-debug: // ---- build task Fill script data to settings ---- (1ms)
+12-17-2024 09:25:44-debug: [Build Memory track]: Fill script data to settings start:312.71MB, end 312.72MB, increase: 12.27KB
+12-17-2024 09:25:44-debug: Sort some build options to settings.json start13%
+12-17-2024 09:25:44-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:25:44-debug: run build task Fill script data to settings success in 1 ms √13%
+12-17-2024 09:25:44-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+12-17-2024 09:25:44-debug: run build task Sort some build options to settings.json success in 2 ms √15%
+12-17-2024 09:25:44-debug: [Build Memory track]: Sort some build options to settings.json start:312.73MB, end 312.84MB, increase: 112.20KB
+12-17-2024 09:26:15-debug: refresh db internal success
+12-17-2024 09:26:15-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:26:15-debug: refresh db assets success
+12-17-2024 09:26:15-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:26:15-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:26:15-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:26:15-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:26:15-debug: asset-db:refresh-all-database (40ms)
+12-17-2024 09:26:17-debug: programming:execute-script (4ms)
+12-17-2024 09:26:17-debug: Query all assets info in project
+12-17-2024 09:26:17-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:26:17-debug:   Number of all scenes: 2
+12-17-2024 09:26:17-debug:   Number of all scripts: 4
+12-17-2024 09:26:17-debug:   Number of other assets: 335
+12-17-2024 09:26:17-debug: reload all scripts.
+12-17-2024 09:26:17-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:26:17-debug: Unregister ScrollComp
+12-17-2024 09:26:17-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:26:17-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:26:17-debug: Unregister ItemComp
+12-17-2024 09:26:17-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:26:17-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:26:17-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:26:17-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:26:17-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:26:17-debug: Unregister RotateAroundComp
+12-17-2024 09:26:17-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:26:17-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:26:17-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:26:17-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:26:17-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:26:17-debug: [[Executor]] Register ItemComp
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:26:17-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:26:17-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:26:17-debug: Incremental keys: 
+12-17-2024 09:26:17-debug: Query asset bundle start0%
+12-17-2024 09:26:17-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:26:17-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:26:17-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:26:17-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:26:17-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:26:17-debug: // ---- build task Query asset bundle ---- (8ms)
+12-17-2024 09:26:17-debug: run build task Query asset bundle success in 8 ms √5%
+12-17-2024 09:26:17-debug: [Build Memory track]: Query asset bundle start:314.88MB, end 315.28MB, increase: 412.71KB
+12-17-2024 09:26:17-debug: Query asset bundle start5%
+12-17-2024 09:26:17-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:26:17-debug: // ---- build task Query asset bundle ---- (1ms)
+12-17-2024 09:26:17-debug: [Build Memory track]: Query asset bundle start:315.29MB, end 315.30MB, increase: 11.73KB
+12-17-2024 09:26:17-debug: run build task Query asset bundle success in 1 ms √10%
+12-17-2024 09:26:17-debug: Sort some build options to settings.json start10%
+12-17-2024 09:26:17-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:26:17-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:26:17-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:26:17-debug: [Build Memory track]: Sort some build options to settings.json start:315.31MB, end 315.32MB, increase: 12.41KB
+12-17-2024 09:26:17-debug: Fill script data to settings start12%
+12-17-2024 09:26:17-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+12-17-2024 09:26:17-debug: run build task Fill script data to settings success in 0 ms √13%
+12-17-2024 09:26:17-debug: [Build Memory track]: Fill script data to settings start:315.33MB, end 315.34MB, increase: 10.70KB
+12-17-2024 09:26:17-debug: Sort some build options to settings.json start13%
+12-17-2024 09:26:17-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:26:17-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:26:17-debug: run build task Sort some build options to settings.json success in 1 ms √15%
+12-17-2024 09:26:17-debug: [Build Memory track]: Sort some build options to settings.json start:315.34MB, end 315.47MB, increase: 128.39KB
+12-17-2024 09:27:07-debug: refresh db internal success
+12-17-2024 09:27:07-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:27:07-debug: refresh db assets success
+12-17-2024 09:27:07-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:27:07-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:27:07-debug: asset-db:refresh-all-database (32ms)
+12-17-2024 09:27:07-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:27:07-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:27:09-debug: programming:execute-script (4ms)
+12-17-2024 09:27:10-debug: Query all assets info in project
+12-17-2024 09:27:10-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:27:10-debug:   Number of all scenes: 2
+12-17-2024 09:27:10-debug:   Number of all scripts: 4
+12-17-2024 09:27:10-debug:   Number of other assets: 335
+12-17-2024 09:27:10-debug: reload all scripts.
+12-17-2024 09:27:10-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:27:10-debug: Unregister ScrollComp
+12-17-2024 09:27:10-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:27:10-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:27:10-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:27:10-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:27:10-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:27:10-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:27:10-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:27:10-debug: Unregister ItemComp
+12-17-2024 09:27:10-debug: Unregister RotateAroundComp
+12-17-2024 09:27:10-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:27:10-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:27:10-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:27:10-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:27:10-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:27:10-debug: [[Executor]] Register ItemComp
+12-17-2024 09:27:10-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:27:10-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:27:10-debug: Incremental keys: 
+12-17-2024 09:27:10-debug: Query asset bundle start0%
+12-17-2024 09:27:10-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:27:10-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:27:10-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:27:10-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:27:10-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:27:10-debug: // ---- build task Query asset bundle ---- (8ms)
+12-17-2024 09:27:10-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:27:10-debug: [Build Memory track]: Query asset bundle start:316.42MB, end 316.79MB, increase: 379.88KB
+12-17-2024 09:27:10-debug: Query asset bundle start5%
+12-17-2024 09:27:10-debug: run build task Query asset bundle success in 8 ms √5%
+12-17-2024 09:27:10-debug: run build task Query asset bundle success in 0 ms √10%
+12-17-2024 09:27:10-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:27:10-debug: Sort some build options to settings.json start10%
+12-17-2024 09:27:10-debug: [Build Memory track]: Query asset bundle start:316.80MB, end 316.81MB, increase: 9.86KB
+12-17-2024 09:27:10-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:27:10-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+12-17-2024 09:27:10-debug: Fill script data to settings start12%
+12-17-2024 09:27:10-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:27:10-debug: [Build Memory track]: Sort some build options to settings.json start:316.81MB, end 316.82MB, increase: 11.95KB
+12-17-2024 09:27:10-debug: run build task Fill script data to settings success in 0 ms √13%
+12-17-2024 09:27:10-debug: [Build Memory track]: Fill script data to settings start:316.83MB, end 316.84MB, increase: 10.99KB
+12-17-2024 09:27:10-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:27:10-debug: Sort some build options to settings.json start13%
+12-17-2024 09:27:10-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+12-17-2024 09:27:10-debug: run build task Sort some build options to settings.json success in 2 ms √15%
+12-17-2024 09:27:10-debug: [Build Memory track]: Sort some build options to settings.json start:316.85MB, end 316.96MB, increase: 115.96KB
+12-17-2024 09:30:04-debug: refresh db internal success
+12-17-2024 09:30:04-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:30:04-debug: refresh db assets success
+12-17-2024 09:30:04-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:30:04-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:30:04-debug: asset-db:refresh-all-database (49ms)
+12-17-2024 09:30:04-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:30:04-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:30:17-debug: start refresh asset from /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scene...
+12-17-2024 09:30:17-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scenebackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:30:17-debug: refresh asset /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes success
+12-17-2024 09:30:46-debug: start refresh asset from /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scene...
+12-17-2024 09:30:46-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes/Problem2.scenebackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:30:46-debug: refresh asset /Users/admin/Documents/GitHub/Gamify_Test/assets/Scenes success
+12-17-2024 09:30:48-debug: programming:execute-script (4ms)
+12-17-2024 09:30:49-debug: Query all assets info in project
+12-17-2024 09:30:49-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:30:49-debug:   Number of all scenes: 2
+12-17-2024 09:30:49-debug:   Number of all scripts: 4
+12-17-2024 09:30:49-debug:   Number of other assets: 335
+12-17-2024 09:30:49-debug: reload all scripts.
+12-17-2024 09:30:49-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:30:49-debug: Unregister ScrollComp
+12-17-2024 09:30:49-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:30:49-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:30:49-debug: Unregister ItemComp
+12-17-2024 09:30:49-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:30:49-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:30:49-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:30:49-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:30:49-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:30:49-debug: Unregister RotateAroundComp
+12-17-2024 09:30:49-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:30:49-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:30:49-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:30:49-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:30:49-debug: [[Executor]] Register ItemComp
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:30:49-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:30:49-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:30:49-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:30:49-debug: Incremental keys: 
+12-17-2024 09:30:49-debug: Query asset bundle start0%
+12-17-2024 09:30:49-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:30:49-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:30:49-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:30:49-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:30:49-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:30:49-debug: // ---- build task Query asset bundle ---- (7ms)
+12-17-2024 09:30:49-debug: Query asset bundle start5%
+12-17-2024 09:30:49-debug: [Build Memory track]: Query asset bundle start:317.92MB, end 318.41MB, increase: 500.55KB
+12-17-2024 09:30:49-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:30:49-debug: run build task Query asset bundle success in 7 ms √5%
+12-17-2024 09:30:49-debug: run build task Query asset bundle success in 0 ms √10%
+12-17-2024 09:30:49-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:30:49-debug: Sort some build options to settings.json start10%
+12-17-2024 09:30:49-debug: [Build Memory track]: Query asset bundle start:318.41MB, end 318.42MB, increase: 10.17KB
+12-17-2024 09:30:49-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+12-17-2024 09:30:49-debug: Fill script data to settings start12%
+12-17-2024 09:30:49-debug: [Build Memory track]: Sort some build options to settings.json start:318.43MB, end 318.44MB, increase: 10.43KB
+12-17-2024 09:30:49-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:30:49-debug: run build task Fill script data to settings success in 0 ms √13%
+12-17-2024 09:30:49-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:30:49-debug: Sort some build options to settings.json start13%
+12-17-2024 09:30:49-debug: [Build Memory track]: Fill script data to settings start:318.45MB, end 318.46MB, increase: 9.64KB
+12-17-2024 09:30:49-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+12-17-2024 09:30:49-debug: [Build Memory track]: Sort some build options to settings.json start:318.47MB, end 318.57MB, increase: 111.45KB
+12-17-2024 09:30:49-debug: run build task Sort some build options to settings.json success in 2 ms √15%
+12-17-2024 09:31:21-debug: refresh db internal success
+12-17-2024 09:31:21-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:31:21-debug: refresh db assets success
+12-17-2024 09:31:21-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:31:21-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:31:21-debug: asset-db:refresh-all-database (36ms)
+12-17-2024 09:31:21-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:31:21-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:31:29-debug: refresh db internal success
+12-17-2024 09:31:29-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:31:29-debug: refresh db assets success
+12-17-2024 09:31:29-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:31:29-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:31:29-debug: asset-db:refresh-all-database (20ms)
+12-17-2024 09:31:29-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:31:29-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:31:30-debug: programming:execute-script (3ms)
+12-17-2024 09:31:31-debug: Query all assets info in project
+12-17-2024 09:31:31-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:31:31-debug:   Number of other assets: 335
+12-17-2024 09:31:31-debug:   Number of all scripts: 4
+12-17-2024 09:31:31-debug:   Number of all scenes: 2
+12-17-2024 09:31:31-debug: reload all scripts.
+12-17-2024 09:31:31-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:31:31-debug: Unregister ScrollComp
+12-17-2024 09:31:31-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:31:31-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:31:31-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:31:31-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:31:31-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:31:31-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:31:31-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:31:31-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:31:31-debug: Unregister RotateAroundComp
+12-17-2024 09:31:31-debug: Unregister ItemComp
+12-17-2024 09:31:31-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:31:31-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:31:31-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:31:31-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:31:31-debug: [[Executor]] Register ItemComp
+12-17-2024 09:31:31-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:31:31-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:31:31-debug: Incremental keys: 
+12-17-2024 09:31:31-debug: Query asset bundle start0%
+12-17-2024 09:31:31-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:31:31-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:31:31-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:31:31-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:31:31-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:31:31-debug: // ---- build task Query asset bundle ---- (24ms)
+12-17-2024 09:31:31-debug: run build task Query asset bundle success in 24 ms √5%
+12-17-2024 09:31:31-debug: [Build Memory track]: Query asset bundle start:321.22MB, end 321.46MB, increase: 253.18KB
+12-17-2024 09:31:31-debug: Query asset bundle start5%
+12-17-2024 09:31:31-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:31:31-debug: run build task Query asset bundle success in 0 ms √10%
+12-17-2024 09:31:31-debug: [Build Memory track]: Query asset bundle start:321.47MB, end 321.48MB, increase: 9.43KB
+12-17-2024 09:31:31-debug: Sort some build options to settings.json start10%
+12-17-2024 09:31:31-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:31:31-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+12-17-2024 09:31:31-debug: [Build Memory track]: Sort some build options to settings.json start:321.49MB, end 321.50MB, increase: 10.85KB
+12-17-2024 09:31:31-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:31:31-debug: Fill script data to settings start12%
+12-17-2024 09:31:31-debug: // ---- build task Fill script data to settings ---- (1ms)
+12-17-2024 09:31:31-debug: run build task Fill script data to settings success in 1 ms √13%
+12-17-2024 09:31:31-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:31:31-debug: Sort some build options to settings.json start13%
+12-17-2024 09:31:31-debug: [Build Memory track]: Fill script data to settings start:321.51MB, end 321.52MB, increase: 11.93KB
+12-17-2024 09:31:31-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+12-17-2024 09:31:31-debug: run build task Sort some build options to settings.json success in 2 ms √15%
+12-17-2024 09:31:31-debug: [Build Memory track]: Sort some build options to settings.json start:321.52MB, end 319.93MB, increase: -1634.54KB
+12-17-2024 09:31:53-debug: refresh db internal success
+12-17-2024 09:31:53-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:31:53-debug: refresh db assets success
+12-17-2024 09:31:53-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:31:53-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:31:53-debug: asset-db:refresh-all-database (33ms)
+12-17-2024 09:31:53-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:31:53-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:31:55-debug: programming:execute-script (4ms)
+12-17-2024 09:31:55-debug: Query all assets info in project
+12-17-2024 09:31:55-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:31:55-debug:   Number of all scenes: 2
+12-17-2024 09:31:55-debug:   Number of other assets: 335
+12-17-2024 09:31:55-debug:   Number of all scripts: 4
+12-17-2024 09:31:55-debug: reload all scripts.
+12-17-2024 09:31:55-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:31:55-debug: Unregister ScrollComp
+12-17-2024 09:31:55-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:31:55-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:31:55-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:31:55-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:31:55-debug: Unregister ItemComp
+12-17-2024 09:31:55-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:31:55-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:31:55-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:31:55-debug: Unregister RotateAroundComp
+12-17-2024 09:31:55-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:31:55-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:31:55-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:31:55-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:31:55-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:31:55-debug: [[Executor]] Register ItemComp
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:31:55-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:31:55-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:31:55-debug: Incremental keys: 
+12-17-2024 09:31:55-debug: Query asset bundle start0%
+12-17-2024 09:31:55-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:31:55-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:31:55-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:31:55-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:31:55-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:31:55-debug: // ---- build task Query asset bundle ---- (8ms)
+12-17-2024 09:31:55-debug: run build task Query asset bundle success in 8 ms √5%
+12-17-2024 09:31:55-debug: [Build Memory track]: Query asset bundle start:321.99MB, end 322.44MB, increase: 459.52KB
+12-17-2024 09:31:55-debug: Query asset bundle start5%
+12-17-2024 09:31:55-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:31:55-debug: // ---- build task Query asset bundle ---- (1ms)
+12-17-2024 09:31:55-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:31:55-debug: [Build Memory track]: Query asset bundle start:322.44MB, end 322.46MB, increase: 12.07KB
+12-17-2024 09:31:55-debug: Sort some build options to settings.json start10%
+12-17-2024 09:31:55-debug: run build task Query asset bundle success in 1 ms √10%
+12-17-2024 09:31:55-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+12-17-2024 09:31:55-debug: [Build Memory track]: Sort some build options to settings.json start:322.46MB, end 322.47MB, increase: 10.37KB
+12-17-2024 09:31:55-debug: Fill script data to settings start12%
+12-17-2024 09:31:55-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:31:55-debug: // ---- build task Fill script data to settings ---- (1ms)
+12-17-2024 09:31:55-debug: Sort some build options to settings.json start13%
+12-17-2024 09:31:55-debug: [Build Memory track]: Fill script data to settings start:322.48MB, end 322.49MB, increase: 12.12KB
+12-17-2024 09:31:55-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:31:55-debug: run build task Fill script data to settings success in 1 ms √13%
+12-17-2024 09:31:55-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:31:55-debug: run build task Sort some build options to settings.json success in 1 ms √15%
+12-17-2024 09:31:55-debug: [Build Memory track]: Sort some build options to settings.json start:322.50MB, end 322.61MB, increase: 111.90KB
+12-17-2024 09:32:47-debug: refresh db internal success
+12-17-2024 09:32:47-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:32:47-debug: refresh db assets success
+12-17-2024 09:32:47-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:32:47-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:32:47-debug: asset-db:refresh-all-database (45ms)
+12-17-2024 09:32:47-debug: asset-db:worker-effect-data-processing (3ms)
+12-17-2024 09:32:47-debug: asset-db-hook-engine-extends-afterRefresh (3ms)
+12-17-2024 09:32:49-debug: programming:execute-script (3ms)
+12-17-2024 09:32:50-debug: Query all assets info in project
+12-17-2024 09:32:50-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:32:50-debug:   Number of all scenes: 2
+12-17-2024 09:32:50-debug:   Number of other assets: 335
+12-17-2024 09:32:50-debug:   Number of all scripts: 4
+12-17-2024 09:32:50-debug: reload all scripts.
+12-17-2024 09:32:50-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:32:50-debug: Unregister ScrollComp
+12-17-2024 09:32:50-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:32:50-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:32:50-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:32:50-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:32:50-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:32:50-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:32:50-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:32:50-debug: Unregister ItemComp
+12-17-2024 09:32:50-debug: Unregister RotateAroundComp
+12-17-2024 09:32:50-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:32:50-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:32:50-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:32:50-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:32:50-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:32:50-debug: [[Executor]] Register ItemComp
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:32:50-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:32:50-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:32:50-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:32:50-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:32:50-debug: Incremental keys: 
+12-17-2024 09:32:50-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:32:50-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:32:50-debug: Query asset bundle start0%
+12-17-2024 09:32:50-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:32:50-debug: // ---- build task Query asset bundle ---- (8ms)
+12-17-2024 09:32:50-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:32:50-debug: [Build Memory track]: Query asset bundle start:323.17MB, end 323.61MB, increase: 444.66KB
+12-17-2024 09:32:50-debug: Query asset bundle start5%
+12-17-2024 09:32:50-debug: run build task Query asset bundle success in 8 ms √5%
+12-17-2024 09:32:50-debug: // ---- build task Query asset bundle ---- (1ms)
+12-17-2024 09:32:50-debug: run build task Query asset bundle success in 1 ms √10%
+12-17-2024 09:32:50-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:32:50-debug: Sort some build options to settings.json start10%
+12-17-2024 09:32:50-debug: [Build Memory track]: Query asset bundle start:323.62MB, end 323.63MB, increase: 11.81KB
+12-17-2024 09:32:50-debug: run build task Sort some build options to settings.json success in 0 ms √12%
+12-17-2024 09:32:50-debug: Fill script data to settings start12%
+12-17-2024 09:32:50-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:32:50-debug: [Build Memory track]: Sort some build options to settings.json start:323.63MB, end 323.64MB, increase: 10.67KB
+12-17-2024 09:32:50-debug: run build task Fill script data to settings success in 0 ms √13%
+12-17-2024 09:32:50-debug: Sort some build options to settings.json start13%
+12-17-2024 09:32:50-debug: [Build Memory track]: Fill script data to settings start:323.65MB, end 323.66MB, increase: 9.89KB
+12-17-2024 09:32:50-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:32:50-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+12-17-2024 09:32:50-debug: run build task Sort some build options to settings.json success in 2 ms √15%
+12-17-2024 09:32:50-debug: [Build Memory track]: Sort some build options to settings.json start:323.67MB, end 323.79MB, increase: 123.48KB
+12-17-2024 09:33:16-debug: refresh db internal success
+12-17-2024 09:33:16-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:33:16-debug: refresh db assets success
+12-17-2024 09:33:16-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:33:16-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:33:16-debug: asset-db:refresh-all-database (28ms)
+12-17-2024 09:33:17-debug: programming:execute-script (3ms)
+12-17-2024 09:33:18-debug: Query all assets info in project
+12-17-2024 09:33:18-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:33:18-debug:   Number of all scenes: 2
+12-17-2024 09:33:18-debug:   Number of all scripts: 4
+12-17-2024 09:33:18-debug:   Number of other assets: 335
+12-17-2024 09:33:18-debug: reload all scripts.
+12-17-2024 09:33:18-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:33:18-debug: Unregister RotateAroundComp
+12-17-2024 09:33:18-debug: Unregister ItemComp
+12-17-2024 09:33:18-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:33:18-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:33:18-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:33:18-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:33:18-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:33:18-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:33:18-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:33:18-debug: Unregister ScrollComp
+12-17-2024 09:33:18-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:33:18-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:33:18-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:33:18-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:33:18-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:33:18-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:33:18-debug: [[Executor]] Register ItemComp
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:33:18-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:33:18-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:33:18-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:33:18-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:33:18-debug: Incremental keys: 
+12-17-2024 09:33:18-debug: Query asset bundle start0%
+12-17-2024 09:33:18-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:33:18-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:33:18-debug: // ---- build task Query asset bundle ---- (20ms)
+12-17-2024 09:33:18-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:33:18-debug: run build task Query asset bundle success in 20 ms √5%
+12-17-2024 09:33:18-debug: [Build Memory track]: Query asset bundle start:325.49MB, end 325.86MB, increase: 376.95KB
+12-17-2024 09:33:18-debug: Query asset bundle start5%
+12-17-2024 09:33:18-debug: run build task Query asset bundle success in 0 ms √10%
+12-17-2024 09:33:18-debug: [Build Memory track]: Query asset bundle start:325.86MB, end 325.87MB, increase: 8.61KB
+12-17-2024 09:33:18-debug: Sort some build options to settings.json start10%
+12-17-2024 09:33:18-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:33:18-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:33:18-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:33:18-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+12-17-2024 09:33:18-debug: Fill script data to settings start12%
+12-17-2024 09:33:18-debug: [Build Memory track]: Sort some build options to settings.json start:325.88MB, end 296.11MB, increase: -30478.52KB
+12-17-2024 09:33:18-debug: // ---- build task Fill script data to settings ---- (1ms)
+12-17-2024 09:33:18-debug: run build task Fill script data to settings success in 1 ms √13%
+12-17-2024 09:33:18-debug: [Build Memory track]: Fill script data to settings start:296.12MB, end 296.14MB, increase: 15.54KB
+12-17-2024 09:33:18-debug: Sort some build options to settings.json start13%
+12-17-2024 09:33:18-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:33:18-debug: // ---- build task Sort some build options to settings.json ---- (2ms)
+12-17-2024 09:33:18-debug: run build task Sort some build options to settings.json success in 2 ms √15%
+12-17-2024 09:33:18-debug: [Build Memory track]: Sort some build options to settings.json start:296.14MB, end 296.25MB, increase: 113.34KB
+12-17-2024 09:34:17-debug: refresh db internal success
+12-17-2024 09:34:17-debug: refresh db assets success
+12-17-2024 09:34:17-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:34:17-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:34:17-debug: asset-db:refresh-all-database (36ms)
+12-17-2024 09:34:17-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:34:17-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:34:23-debug: refresh db internal success
+12-17-2024 09:34:23-debug: %cImport%c: /Users/admin/Documents/GitHub/Gamify_Test/assets/Scripts/Problem2/ScrollComp.tsbackground: #aaff85; color: #000;color: #000;
+12-17-2024 09:34:23-debug: refresh db assets success
+12-17-2024 09:34:23-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:34:23-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:34:23-debug: asset-db:refresh-all-database (26ms)
+12-17-2024 09:34:25-debug: programming:execute-script (4ms)
+12-17-2024 09:34:26-debug: Query all assets info in project
+12-17-2024 09:34:26-debug: init custom config: keepNodeUuid: false, useCache: true
+12-17-2024 09:34:26-debug:   Number of all scenes: 2
+12-17-2024 09:34:26-debug:   Number of all scripts: 4
+12-17-2024 09:34:26-debug:   Number of other assets: 335
+12-17-2024 09:34:26-debug: reload all scripts.
+12-17-2024 09:34:26-debug: Set detail map pack:///resolution-detail-map.json: {}
+12-17-2024 09:34:26-debug: Unregister RotateAroundComp
+12-17-2024 09:34:26-debug: Unregister ItemComp
+12-17-2024 09:34:26-debug: Unregister ScrollComp
+12-17-2024 09:34:26-debug: Unregister DebugViewRuntimeControl
+12-17-2024 09:34:26-debug: Invalidating 'pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js'
+12-17-2024 09:34:26-debug: Invalidating 'pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js'
+12-17-2024 09:34:26-debug: Invalidating 'pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js'
+12-17-2024 09:34:26-debug: Invalidating 'pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js'
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/93/93ba276ea7b26ffcdc433fab14afc1ed6f05647b.js" loaded.
+12-17-2024 09:34:26-debug: Invalidating 'pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js'
+12-17-2024 09:34:26-debug: Invalidating 'pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js'
+12-17-2024 09:34:26-debug: Invalidating 'pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js'
+12-17-2024 09:34:26-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js is not in module cache!
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:34:26-warn: You are explicitly specifying `undefined` type to cc property "radius" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:34:26-warn: You are explicitly specifying `undefined` type to cc property "angleRotateSpeed" of cc class "RotateAroundComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/f0/f0eb614dff6710c7d3e4255bd944130032704458.js" loaded.
+12-17-2024 09:34:26-debug: [[Executor]] Register ItemComp
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/8b/8b0c741c37ad7d36c7762e5b96f8c7bda3283359.js" loaded.
+12-17-2024 09:34:26-debug: [[Executor]] Register RotateAroundComp
+12-17-2024 09:34:26-debug: [[Executor]] Register DebugViewRuntimeControl
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/24/24ac7d0537e523d6c1d5a67c336cca62fc54d372.js" loaded.
+12-17-2024 09:34:26-debug: /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js resolved to /Users/admin/Documents/GitHub/Gamify_Test/temp/programming/packer-driver/targets/editor/chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js is not in module cache!
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/39/39f9d9e8b32ed58cae0168fa6ea9288de860bb63.js" loaded.
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/6d/6d8fd2b0177941b032ddc0733af48a561fb60657.js" loaded.
+12-17-2024 09:34:26-debug: Incremental keys: 
+12-17-2024 09:34:26-debug: Query asset bundle start0%
+12-17-2024 09:34:26-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:34:26-debug: [[Executor]] Register ScrollComp
+12-17-2024 09:34:26-debug: [[Executor]] Module "pack:///chunks/6a/6a5019a719a9014c047e67aa1cf34453ab8392ce.js" loaded.
+12-17-2024 09:34:26-warn: You are explicitly specifying `undefined` type to cc property "itemSpacing" of cc class "ScrollComp".Is this intended? If not, this may indicate a circular reference.For example: // foo.tsimport { _decorator } from 'cc';import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',                              // the `Bar` imported here is `undefined` until './bar' finish its execution.                              // It leads to that@_decorator.ccclass           //  ↓export class Foo {            //  ↓    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`    public bar: Bar;          // To eliminate this error, either:                              // - Refactor your module structure(recommended), or                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`}
+12-17-2024 09:34:26-debug: Query preload assets from cc.config.json: 60f7195c-ec2a-45eb-ba94-8955f60e81d0,1c02ae6f-4492-4915-b8f8-7492a3b1e4cd,810e96e4-e456-4468-9b59-f4e8f39732c0,efe8e2a3-eace-427b-b4f1-cb8a937ec77d,e9aa9a3e-5b2b-4ac7-a2c7-073de2b2b24f,8bbdbcdd-5cd4-4100-b6d5-b7c9625b6107,50f4348b-c883-4e2f-8f11-ce233b859fa1,fda095cb-831d-4601-ad94-846013963de8,f92806d7-1768-443f-afe8-12bcde84d0f0,dd3a144d-ab7f-41f0-82b8-2e43a090d496,f0416e68-0200-4b77-a926-4f9d16e494da,970b0598-bcb0-4714-91fb-2e81440dccd8,bcd64cc6-2dd9-43f6-abbe-66318d332032,d930590d-bb92-4cc8-8bd1-23cd027f9edf,a3cd009f-0ab0-420d-9278-b9fdab939bbc,c27215d8-6835-4b68-bfbb-bdeac6100c04,b5d6115f-0370-4d7c-aad3-c194cc71cf98,871c3b6c-7379-419d-bda3-794b239ab90d
+12-17-2024 09:34:26-debug: // ---- build task Query asset bundle ---- (17ms)
+12-17-2024 09:34:26-debug: // ---- build task Query asset bundle ----
+12-17-2024 09:34:26-debug: [Build Memory track]: Query asset bundle start:299.37MB, end 299.64MB, increase: 268.70KB
+12-17-2024 09:34:26-debug: Query asset bundle start5%
+12-17-2024 09:34:26-debug: run build task Query asset bundle success in 17 ms √5%
+12-17-2024 09:34:26-debug: run build task Query asset bundle success in 0 ms √10%
+12-17-2024 09:34:26-debug: Sort some build options to settings.json start10%
+12-17-2024 09:34:26-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:34:26-debug: [Build Memory track]: Query asset bundle start:299.64MB, end 299.65MB, increase: 9.40KB
+12-17-2024 09:34:26-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:34:26-debug: run build task Sort some build options to settings.json success in 1 ms √12%
+12-17-2024 09:34:26-debug: [Build Memory track]: Sort some build options to settings.json start:299.66MB, end 299.67MB, increase: 12.11KB
+12-17-2024 09:34:26-debug: Fill script data to settings start12%
+12-17-2024 09:34:26-debug: // ---- build task Fill script data to settings ----
+12-17-2024 09:34:26-debug: run build task Fill script data to settings success in 0 ms √13%
+12-17-2024 09:34:26-debug: // ---- build task Sort some build options to settings.json ----
+12-17-2024 09:34:26-debug: Sort some build options to settings.json start13%
+12-17-2024 09:34:26-debug: [Build Memory track]: Fill script data to settings start:299.68MB, end 299.69MB, increase: 10.25KB
+12-17-2024 09:34:26-debug: // ---- build task Sort some build options to settings.json ---- (1ms)
+12-17-2024 09:34:26-debug: [Build Memory track]: Sort some build options to settings.json start:299.70MB, end 298.24MB, increase: -1501.88KB
+12-17-2024 09:34:26-debug: run build task Sort some build options to settings.json success in 1 ms √15%
+12-17-2024 09:36:17-debug: refresh db internal success
+12-17-2024 09:36:17-debug: refresh db assets success
+12-17-2024 09:36:17-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:36:17-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:36:17-debug: asset-db:refresh-all-database (50ms)
+12-17-2024 09:36:17-debug: asset-db:worker-effect-data-processing (2ms)
+12-17-2024 09:36:17-debug: asset-db-hook-engine-extends-afterRefresh (2ms)
+12-17-2024 09:36:36-debug: refresh db internal success
+12-17-2024 09:36:36-debug: refresh db assets success
+12-17-2024 09:36:36-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:36:36-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:36:36-debug: asset-db:refresh-all-database (20ms)
+12-17-2024 09:36:36-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:36:36-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:36:50-debug: refresh db internal success
+12-17-2024 09:36:50-debug: refresh db assets success
+12-17-2024 09:36:50-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:36:50-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:36:50-debug: asset-db:refresh-all-database (21ms)
+12-17-2024 09:36:50-debug: asset-db:worker-effect-data-processing (1ms)
+12-17-2024 09:36:50-debug: asset-db-hook-engine-extends-afterRefresh (1ms)
+12-17-2024 09:36:59-debug: refresh db internal success
+12-17-2024 09:36:59-debug: refresh db assets success
+12-17-2024 09:36:59-debug: Run asset db hook engine-extends:afterRefresh ...
+12-17-2024 09:36:59-debug: Run asset db hook engine-extends:afterRefresh success!
+12-17-2024 09:36:59-debug: asset-db:refresh-all-database (22ms)

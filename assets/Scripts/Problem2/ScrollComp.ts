@@ -1,7 +1,9 @@
 import {
   _decorator,
+  CCFloat,
   Component,
   instantiate,
+  Label,
   macro,
   Node,
   NodePool,
@@ -24,20 +26,32 @@ export class ScrollComp extends Component {
   @property()
   private itemSpacing: number = 50;
 
-  @property()
   private snapSpeed = 3000;
 
   @property({ group: { name: "Time Slider" }, type: Slider })
   timeAddSlider: Slider = null;
 
+  @property({ group: { name: "Time Slider" }, type: Label })
+  timeAddInfoLabel: Label = null;
+
   @property({ group: { name: "Time Slider" }, type: Slider })
   timeRemoveSlider: Slider = null;
+
+  @property({ group: { name: "Time Slider" }, type: Label })
+  timeRemoveInfoLabel: Label = null;
+
+  @property({ group: { name: "Time Slider" }, type: CCFloat })
+  private timeMin: number = 0.001;
+
+  @property({ group: { name: "Time Slider" }, type: CCFloat })
+  private timeMultiply: number = 1;
 
   private countData: number = 0;
   private itemTotal: number = 0;
   private pool: NodePool = null;
 
   private yOffset: number = 0;
+  private actionIdx = 0;
 
   protected onLoad(): void {
     this.pool = new NodePool();
@@ -50,6 +64,7 @@ export class ScrollComp extends Component {
   protected update(dt: number): void {
     if (this.yOffset == 0) return;
 
+    this.snapSpeed = this.itemSpacing / this.getTime(this.timeRemoveSlider);
     let offset = Math.min(Math.abs(this.yOffset), dt * this.snapSpeed);
     this.contentNode.children.forEach((child) => {
       child.setPosition(child.position.x, child.position.y - offset);
@@ -63,6 +78,8 @@ export class ScrollComp extends Component {
       let newItem = this.createItem();
       this.addItemToTop(newItem);
     }
+
+    this.updateSliderInfo();
   }
 
   private createNode(): Node {
@@ -122,17 +139,35 @@ export class ScrollComp extends Component {
     this.triggerAdd.bind(this),
   ];
 
-  private times = [0.1, 0.05];
-  private idx = 0;
-  doSchedule() {
-    this.scheduleOnce(() => {
-      this.nextActions[this.idx]();
-      this.idx++;
-      this.idx %= 2;
-      this.doSchedule();
-    }, this.times[this.idx]);
+  getTime(slider: Slider) {
+    return Math.max(this.timeMin, slider.progress * this.timeMultiply);
   }
+
+  doSchedule() {
+    let times = [
+      this.getTime(this.timeAddSlider),
+      this.getTime(this.timeRemoveSlider),
+    ];
+
+    this.scheduleOnce(() => {
+      this.nextActions[this.actionIdx]();
+      this.actionIdx++;
+      this.actionIdx %= 2;
+      this.doSchedule();
+    }, times[this.actionIdx]);
+  }
+
+  updateSliderInfo() {
+    this.timeAddInfoLabel.string = `${Math.round(
+      this.getTime(this.timeAddSlider) * 1000
+    )}ms`;
+    this.timeRemoveInfoLabel.string = `${Math.round(
+      this.getTime(this.timeRemoveSlider) * 1000
+    )}ms`;
+  }
+
   onClick() {
+    this.unscheduleAllCallbacks();
     this.doSchedule();
   }
 }
